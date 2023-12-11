@@ -1,0 +1,10 @@
+<customers>
+  <customer>
+    <name>Tín</name>
+    <cost>1220000</cost>
+  </customer>
+  <customer>
+    <name>Kiệt</name>
+    <cost>950000</cost>
+  </customer>
+</customers>
