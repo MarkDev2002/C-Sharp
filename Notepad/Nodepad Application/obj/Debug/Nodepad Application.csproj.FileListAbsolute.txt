@@ -1,0 +1,33 @@
+E:\demoNotePad\Nodepad-SI\Nodepad Application\bin\Debug\Nodepad Application.exe.config
+E:\demoNotePad\Nodepad-SI\Nodepad Application\bin\Debug\Nodepad Application.exe
+E:\demoNotePad\Nodepad-SI\Nodepad Application\bin\Debug\Nodepad Application.pdb
+E:\demoNotePad\Nodepad-SI\Nodepad Application\obj\Debug\Nodepad Application.csprojAssemblyReference.cache
+E:\demoNotePad\Nodepad-SI\Nodepad Application\obj\Debug\Nodepad_Application.mainForm.resources
+E:\demoNotePad\Nodepad-SI\Nodepad Application\obj\Debug\Nodepad_Application.Properties.Resources.resources
+E:\demoNotePad\Nodepad-SI\Nodepad Application\obj\Debug\Nodepad Application.csproj.GenerateResource.cache
+E:\demoNotePad\Nodepad-SI\Nodepad Application\obj\Debug\Nodepad Application.csproj.CoreCompileInputs.cache
+E:\demoNotePad\Nodepad-SI\Nodepad Application\obj\Debug\Nodepad Application.exe
+E:\demoNotePad\Nodepad-SI\Nodepad Application\obj\Debug\Nodepad Application.pdb
+E:\demoNotePad\Nodepad\Nodepad Application\obj\Debug\Nodepad Application.csprojAssemblyReference.cache
+E:\demoNotePad\Nodepad\Nodepad Application\obj\Debug\Nodepad_Application.mainForm.resources
+E:\demoNotePad\Nodepad\Nodepad Application\obj\Debug\Nodepad Application.csproj.GenerateResource.cache
+E:\demoNotePad\Nodepad\Nodepad Application\obj\Debug\Nodepad Application.exe
+E:\demoNotePad\Nodepad\Nodepad Application\obj\Debug\Nodepad Application.pdb
+E:\demoNotePad\Nodepad\Nodepad Application\bin\Debug\Nodepad Application.exe.config
+E:\demoNotePad\Nodepad\Nodepad Application\bin\Debug\Nodepad Application.exe
+E:\demoNotePad\Nodepad\Nodepad Application\bin\Debug\Nodepad Application.pdb
+E:\demoNotePad\Nodepad\Nodepad Application\obj\Debug\Nodepad_Application.Properties.Resources.resources
+E:\demoNotePad\Nodepad\Nodepad Application\obj\Debug\Nodepad Application.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Nodepad\Nodepad Application\bin\Debug\Nodepad Application.exe.config
+C:\Users\DELL\source\repos\Nodepad\Nodepad Application\bin\Debug\Nodepad Application.exe
+C:\Users\DELL\source\repos\Nodepad\Nodepad Application\bin\Debug\Nodepad Application.pdb
+C:\Users\DELL\source\repos\Nodepad\Nodepad Application\obj\Debug\Nodepad Application.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\Nodepad\Nodepad Application\obj\Debug\Nodepad Application.csproj.SuggestedBindingRedirects.cache
+C:\Users\DELL\source\repos\Nodepad\Nodepad Application\obj\Debug\Nodepad_Application.mainForm.resources
+C:\Users\DELL\source\repos\Nodepad\Nodepad Application\obj\Debug\Nodepad_Application.Properties.Resources.resources
+C:\Users\DELL\source\repos\Nodepad\Nodepad Application\obj\Debug\Nodepad Application.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\Nodepad\Nodepad Application\obj\Debug\Nodepad Application.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Nodepad\Nodepad Application\obj\Debug\Nodepad Application.exe
+C:\Users\DELL\source\repos\Nodepad\Nodepad Application\obj\Debug\Nodepad Application.pdb
+C:\Users\DELL\source\repos\Nodepad\Nodepad Application\obj\Debug\Nodepad_Application.Find.resources
+C:\Users\DELL\source\repos\Nodepad\Nodepad Application\obj\Debug\Nodepad_Application.Replace.resources
