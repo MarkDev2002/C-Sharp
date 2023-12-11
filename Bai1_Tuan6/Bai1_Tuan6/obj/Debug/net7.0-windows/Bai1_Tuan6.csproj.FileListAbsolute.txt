@@ -1,0 +1,16 @@
+C:\Users\kinhc\Documents\C#\Bai1_Tuan6\Bai1_Tuan6\bin\Debug\net7.0-windows\Bai1_Tuan6.exe
+C:\Users\kinhc\Documents\C#\Bai1_Tuan6\Bai1_Tuan6\bin\Debug\net7.0-windows\Bai1_Tuan6.deps.json
+C:\Users\kinhc\Documents\C#\Bai1_Tuan6\Bai1_Tuan6\bin\Debug\net7.0-windows\Bai1_Tuan6.runtimeconfig.json
+C:\Users\kinhc\Documents\C#\Bai1_Tuan6\Bai1_Tuan6\bin\Debug\net7.0-windows\Bai1_Tuan6.dll
+C:\Users\kinhc\Documents\C#\Bai1_Tuan6\Bai1_Tuan6\bin\Debug\net7.0-windows\Bai1_Tuan6.pdb
+C:\Users\kinhc\Documents\C#\Bai1_Tuan6\Bai1_Tuan6\obj\Debug\net7.0-windows\Bai1_Tuan6.Form1.resources
+C:\Users\kinhc\Documents\C#\Bai1_Tuan6\Bai1_Tuan6\obj\Debug\net7.0-windows\Bai1_Tuan6.csproj.GenerateResource.cache
+C:\Users\kinhc\Documents\C#\Bai1_Tuan6\Bai1_Tuan6\obj\Debug\net7.0-windows\Bai1_Tuan6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kinhc\Documents\C#\Bai1_Tuan6\Bai1_Tuan6\obj\Debug\net7.0-windows\Bai1_Tuan6.AssemblyInfoInputs.cache
+C:\Users\kinhc\Documents\C#\Bai1_Tuan6\Bai1_Tuan6\obj\Debug\net7.0-windows\Bai1_Tuan6.AssemblyInfo.cs
+C:\Users\kinhc\Documents\C#\Bai1_Tuan6\Bai1_Tuan6\obj\Debug\net7.0-windows\Bai1_Tuan6.csproj.CoreCompileInputs.cache
+C:\Users\kinhc\Documents\C#\Bai1_Tuan6\Bai1_Tuan6\obj\Debug\net7.0-windows\Bai1_Tuan6.dll
+C:\Users\kinhc\Documents\C#\Bai1_Tuan6\Bai1_Tuan6\obj\Debug\net7.0-windows\refint\Bai1_Tuan6.dll
+C:\Users\kinhc\Documents\C#\Bai1_Tuan6\Bai1_Tuan6\obj\Debug\net7.0-windows\Bai1_Tuan6.pdb
+C:\Users\kinhc\Documents\C#\Bai1_Tuan6\Bai1_Tuan6\obj\Debug\net7.0-windows\Bai1_Tuan6.genruntimeconfig.cache
+C:\Users\kinhc\Documents\C#\Bai1_Tuan6\Bai1_Tuan6\obj\Debug\net7.0-windows\ref\Bai1_Tuan6.dll
