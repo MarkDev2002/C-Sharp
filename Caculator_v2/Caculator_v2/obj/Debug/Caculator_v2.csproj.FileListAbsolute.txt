@@ -1,0 +1,30 @@
+C:\Users\yanyu\Documents\My Code\Caculator_v2\Caculator_v2\bin\Debug\Caculator_v2.exe.config
+C:\Users\yanyu\Documents\My Code\Caculator_v2\Caculator_v2\bin\Debug\Caculator_v2.exe
+C:\Users\yanyu\Documents\My Code\Caculator_v2\Caculator_v2\bin\Debug\Caculator_v2.pdb
+C:\Users\yanyu\Documents\My Code\Caculator_v2\Caculator_v2\obj\Debug\Caculator_v2.csproj.AssemblyReference.cache
+C:\Users\yanyu\Documents\My Code\Caculator_v2\Caculator_v2\obj\Debug\Caculator_v2.Form1.resources
+C:\Users\yanyu\Documents\My Code\Caculator_v2\Caculator_v2\obj\Debug\Caculator_v2.Properties.Resources.resources
+C:\Users\yanyu\Documents\My Code\Caculator_v2\Caculator_v2\obj\Debug\Caculator_v2.csproj.GenerateResource.cache
+C:\Users\yanyu\Documents\My Code\Caculator_v2\Caculator_v2\obj\Debug\Caculator_v2.csproj.CoreCompileInputs.cache
+C:\Users\yanyu\Documents\My Code\Caculator_v2\Caculator_v2\obj\Debug\Caculator_v2.exe
+C:\Users\yanyu\Documents\My Code\Caculator_v2\Caculator_v2\obj\Debug\Caculator_v2.pdb
+C:\Users\yanyu\Documents\My Code\C# Projects\Caculator_v2\Caculator_v2\bin\Debug\Caculator_v2.exe.config
+C:\Users\yanyu\Documents\My Code\C# Projects\Caculator_v2\Caculator_v2\bin\Debug\Caculator_v2.exe
+C:\Users\yanyu\Documents\My Code\C# Projects\Caculator_v2\Caculator_v2\bin\Debug\Caculator_v2.pdb
+C:\Users\yanyu\Documents\My Code\C# Projects\Caculator_v2\Caculator_v2\obj\Debug\Caculator_v2.csproj.AssemblyReference.cache
+C:\Users\yanyu\Documents\My Code\C# Projects\Caculator_v2\Caculator_v2\obj\Debug\Caculator_v2.Form1.resources
+C:\Users\yanyu\Documents\My Code\C# Projects\Caculator_v2\Caculator_v2\obj\Debug\Caculator_v2.Properties.Resources.resources
+C:\Users\yanyu\Documents\My Code\C# Projects\Caculator_v2\Caculator_v2\obj\Debug\Caculator_v2.csproj.GenerateResource.cache
+C:\Users\yanyu\Documents\My Code\C# Projects\Caculator_v2\Caculator_v2\obj\Debug\Caculator_v2.csproj.CoreCompileInputs.cache
+C:\Users\yanyu\Documents\My Code\C# Projects\Caculator_v2\Caculator_v2\obj\Debug\Caculator_v2.exe
+C:\Users\yanyu\Documents\My Code\C# Projects\Caculator_v2\Caculator_v2\obj\Debug\Caculator_v2.pdb
+C:\Users\kinhc\Documents\C#\Caculator_v2\Caculator_v2\bin\Debug\Caculator_v2.exe.config
+C:\Users\kinhc\Documents\C#\Caculator_v2\Caculator_v2\bin\Debug\Caculator_v2.exe
+C:\Users\kinhc\Documents\C#\Caculator_v2\Caculator_v2\bin\Debug\Caculator_v2.pdb
+C:\Users\kinhc\Documents\C#\Caculator_v2\Caculator_v2\obj\Debug\Caculator_v2.csproj.AssemblyReference.cache
+C:\Users\kinhc\Documents\C#\Caculator_v2\Caculator_v2\obj\Debug\Caculator_v2.Form1.resources
+C:\Users\kinhc\Documents\C#\Caculator_v2\Caculator_v2\obj\Debug\Caculator_v2.Properties.Resources.resources
+C:\Users\kinhc\Documents\C#\Caculator_v2\Caculator_v2\obj\Debug\Caculator_v2.csproj.GenerateResource.cache
+C:\Users\kinhc\Documents\C#\Caculator_v2\Caculator_v2\obj\Debug\Caculator_v2.csproj.CoreCompileInputs.cache
+C:\Users\kinhc\Documents\C#\Caculator_v2\Caculator_v2\obj\Debug\Caculator_v2.exe
+C:\Users\kinhc\Documents\C#\Caculator_v2\Caculator_v2\obj\Debug\Caculator_v2.pdb
