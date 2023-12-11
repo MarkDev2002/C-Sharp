@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfAnyType xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <anyType xsi:type="Account">
+    <AccountID>2</AccountID>
+    <FirstName>tin</FirstName>
+    <LastName>ngo</LastName>
+    <Balance>200</Balance>
+    <WhichComparision>AccountID</WhichComparision>
+  </anyType>
+  <anyType xsi:type="Account">
+    <AccountID>1</AccountID>
+    <FirstName>bao</FirstName>
+    <LastName>huynh</LastName>
+    <Balance>200</Balance>
+    <WhichComparision>AccountID</WhichComparision>
+  </anyType>
+  <anyType xsi:type="Account">
+    <AccountID>4</AccountID>
+    <FirstName>Chim</FirstName>
+    <LastName>be</LastName>
+    <Balance>200</Balance>
+    <WhichComparision>AccountID</WhichComparision>
+  </anyType>
+</ArrayOfAnyType>
