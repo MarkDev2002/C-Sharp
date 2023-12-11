@@ -1,0 +1,178 @@
+C:\Users\hddev\Desktop\IT\ShoeStoreManager\DAO\bin\Debug\DAO.exe.config
+C:\Users\hddev\Desktop\IT\ShoeStoreManager\DAO\bin\Debug\DAO.exe
+C:\Users\hddev\Desktop\IT\ShoeStoreManager\DAO\bin\Debug\DAO.pdb
+C:\Users\hddev\Desktop\IT\ShoeStoreManager\DAO\obj\Debug\DAO.csproj.AssemblyReference.cache
+C:\Users\hddev\Desktop\IT\ShoeStoreManager\DAO\obj\Debug\DAO.csproj.SuggestedBindingRedirects.cache
+C:\Users\hddev\Desktop\IT\ShoeStoreManager\DAO\obj\Debug\DAO.Properties.Resources.resources
+C:\Users\hddev\Desktop\IT\ShoeStoreManager\DAO\obj\Debug\DAO.csproj.GenerateResource.cache
+C:\Users\hddev\Desktop\IT\ShoeStoreManager\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+C:\Users\hddev\Desktop\IT\ShoeStoreManager\DAO\obj\Debug\DAO.exe
+C:\Users\hddev\Desktop\IT\ShoeStoreManager\DAO\obj\Debug\DAO.pdb
+C:\Users\hddev\Desktop\IT\ShoeStoreManager\DAO\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\hddev\Desktop\IT\ShoeStoreManager\DAO\bin\Debug\DTO.exe
+C:\Users\hddev\Desktop\IT\ShoeStoreManager\DAO\bin\Debug\Google.Protobuf.dll
+C:\Users\hddev\Desktop\IT\ShoeStoreManager\DAO\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\hddev\Desktop\IT\ShoeStoreManager\DAO\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\hddev\Desktop\IT\ShoeStoreManager\DAO\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\hddev\Desktop\IT\ShoeStoreManager\DAO\bin\Debug\MySql.Data.dll
+C:\Users\hddev\Desktop\IT\ShoeStoreManager\DAO\bin\Debug\System.Buffers.dll
+C:\Users\hddev\Desktop\IT\ShoeStoreManager\DAO\bin\Debug\System.Memory.dll
+C:\Users\hddev\Desktop\IT\ShoeStoreManager\DAO\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\hddev\Desktop\IT\ShoeStoreManager\DAO\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\hddev\Desktop\IT\ShoeStoreManager\DAO\bin\Debug\ZstdNet.dll
+C:\Users\hddev\Desktop\IT\ShoeStoreManager\DAO\bin\Debug\DTO.pdb
+C:\Users\hddev\Desktop\IT\ShoeStoreManager\DAO\bin\Debug\DTO.exe.config
+C:\Users\hddev\Desktop\IT\ShoeStoreManager\DAO\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\hddev\Desktop\IT\ShoeStoreManager\DAO\bin\Debug\Google.Protobuf.pdb
+C:\Users\hddev\Desktop\IT\ShoeStoreManager\DAO\bin\Debug\Google.Protobuf.xml
+C:\Users\hddev\Desktop\IT\ShoeStoreManager\DAO\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\hddev\Desktop\IT\ShoeStoreManager\DAO\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\hddev\Desktop\IT\ShoeStoreManager\DAO\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\hddev\Desktop\IT\ShoeStoreManager\DAO\bin\Debug\MySql.Data.xml
+C:\Users\hddev\Desktop\IT\ShoeStoreManager\DAO\bin\Debug\System.Buffers.xml
+C:\Users\hddev\Desktop\IT\ShoeStoreManager\DAO\bin\Debug\System.Memory.xml
+C:\Users\hddev\Desktop\IT\ShoeStoreManager\DAO\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\hddev\Desktop\IT\ShoeStoreManager\DAO\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\hddev\Desktop\IT\ShoeStoreManager\DAO\obj\Debug\DAO.csproj.CopyComplete
+C:\Users\kinhc\Documents\C#\Project\ShoeStoreManager\DAO\bin\Debug\DAO.exe.config
+C:\Users\kinhc\Documents\C#\Project\ShoeStoreManager\DAO\bin\Debug\DAO.exe
+C:\Users\kinhc\Documents\C#\Project\ShoeStoreManager\DAO\bin\Debug\DAO.pdb
+C:\Users\kinhc\Documents\C#\Project\ShoeStoreManager\DAO\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\kinhc\Documents\C#\Project\ShoeStoreManager\DAO\bin\Debug\DTO.exe
+C:\Users\kinhc\Documents\C#\Project\ShoeStoreManager\DAO\bin\Debug\Google.Protobuf.dll
+C:\Users\kinhc\Documents\C#\Project\ShoeStoreManager\DAO\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\kinhc\Documents\C#\Project\ShoeStoreManager\DAO\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\kinhc\Documents\C#\Project\ShoeStoreManager\DAO\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\kinhc\Documents\C#\Project\ShoeStoreManager\DAO\bin\Debug\MySql.Data.dll
+C:\Users\kinhc\Documents\C#\Project\ShoeStoreManager\DAO\bin\Debug\System.Buffers.dll
+C:\Users\kinhc\Documents\C#\Project\ShoeStoreManager\DAO\bin\Debug\System.Memory.dll
+C:\Users\kinhc\Documents\C#\Project\ShoeStoreManager\DAO\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\kinhc\Documents\C#\Project\ShoeStoreManager\DAO\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\kinhc\Documents\C#\Project\ShoeStoreManager\DAO\bin\Debug\ZstdNet.dll
+C:\Users\kinhc\Documents\C#\Project\ShoeStoreManager\DAO\bin\Debug\DTO.pdb
+C:\Users\kinhc\Documents\C#\Project\ShoeStoreManager\DAO\bin\Debug\DTO.exe.config
+C:\Users\kinhc\Documents\C#\Project\ShoeStoreManager\DAO\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\kinhc\Documents\C#\Project\ShoeStoreManager\DAO\bin\Debug\Google.Protobuf.pdb
+C:\Users\kinhc\Documents\C#\Project\ShoeStoreManager\DAO\bin\Debug\Google.Protobuf.xml
+C:\Users\kinhc\Documents\C#\Project\ShoeStoreManager\DAO\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\kinhc\Documents\C#\Project\ShoeStoreManager\DAO\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\kinhc\Documents\C#\Project\ShoeStoreManager\DAO\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\kinhc\Documents\C#\Project\ShoeStoreManager\DAO\bin\Debug\MySql.Data.xml
+C:\Users\kinhc\Documents\C#\Project\ShoeStoreManager\DAO\bin\Debug\System.Buffers.xml
+C:\Users\kinhc\Documents\C#\Project\ShoeStoreManager\DAO\bin\Debug\System.Memory.xml
+C:\Users\kinhc\Documents\C#\Project\ShoeStoreManager\DAO\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\kinhc\Documents\C#\Project\ShoeStoreManager\DAO\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\kinhc\Documents\C#\Project\ShoeStoreManager\DAO\obj\Debug\DAO.csproj.AssemblyReference.cache
+C:\Users\kinhc\Documents\C#\Project\ShoeStoreManager\DAO\obj\Debug\DAO.Properties.Resources.resources
+C:\Users\kinhc\Documents\C#\Project\ShoeStoreManager\DAO\obj\Debug\DAO.csproj.GenerateResource.cache
+C:\Users\kinhc\Documents\C#\Project\ShoeStoreManager\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+C:\Users\kinhc\Documents\C#\Project\ShoeStoreManager\DAO\obj\Debug\DAO.csproj.CopyComplete
+C:\Users\kinhc\Documents\C#\Project\ShoeStoreManager\DAO\obj\Debug\DAO.exe
+C:\Users\kinhc\Documents\C#\Project\ShoeStoreManager\DAO\obj\Debug\DAO.pdb
+E:\Công nghệ phần mềm\ShoeStoreManager\DAO\bin\Debug\DAO.exe.config
+E:\Công nghệ phần mềm\ShoeStoreManager\DAO\bin\Debug\DAO.exe
+E:\Công nghệ phần mềm\ShoeStoreManager\DAO\bin\Debug\DAO.pdb
+E:\Công nghệ phần mềm\ShoeStoreManager\DAO\bin\Debug\BouncyCastle.Crypto.dll
+E:\Công nghệ phần mềm\ShoeStoreManager\DAO\bin\Debug\DTO.exe
+E:\Công nghệ phần mềm\ShoeStoreManager\DAO\bin\Debug\Google.Protobuf.dll
+E:\Công nghệ phần mềm\ShoeStoreManager\DAO\bin\Debug\K4os.Compression.LZ4.dll
+E:\Công nghệ phần mềm\ShoeStoreManager\DAO\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\Công nghệ phần mềm\ShoeStoreManager\DAO\bin\Debug\K4os.Hash.xxHash.dll
+E:\Công nghệ phần mềm\ShoeStoreManager\DAO\bin\Debug\MySql.Data.dll
+E:\Công nghệ phần mềm\ShoeStoreManager\DAO\bin\Debug\System.Buffers.dll
+E:\Công nghệ phần mềm\ShoeStoreManager\DAO\bin\Debug\System.Memory.dll
+E:\Công nghệ phần mềm\ShoeStoreManager\DAO\bin\Debug\System.Numerics.Vectors.dll
+E:\Công nghệ phần mềm\ShoeStoreManager\DAO\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Công nghệ phần mềm\ShoeStoreManager\DAO\bin\Debug\ZstdNet.dll
+E:\Công nghệ phần mềm\ShoeStoreManager\DAO\bin\Debug\DTO.pdb
+E:\Công nghệ phần mềm\ShoeStoreManager\DAO\bin\Debug\DTO.exe.config
+E:\Công nghệ phần mềm\ShoeStoreManager\DAO\bin\Debug\BouncyCastle.Crypto.xml
+E:\Công nghệ phần mềm\ShoeStoreManager\DAO\bin\Debug\Google.Protobuf.pdb
+E:\Công nghệ phần mềm\ShoeStoreManager\DAO\bin\Debug\Google.Protobuf.xml
+E:\Công nghệ phần mềm\ShoeStoreManager\DAO\bin\Debug\K4os.Compression.LZ4.xml
+E:\Công nghệ phần mềm\ShoeStoreManager\DAO\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\Công nghệ phần mềm\ShoeStoreManager\DAO\bin\Debug\K4os.Hash.xxHash.xml
+E:\Công nghệ phần mềm\ShoeStoreManager\DAO\bin\Debug\MySql.Data.xml
+E:\Công nghệ phần mềm\ShoeStoreManager\DAO\bin\Debug\System.Buffers.xml
+E:\Công nghệ phần mềm\ShoeStoreManager\DAO\bin\Debug\System.Memory.xml
+E:\Công nghệ phần mềm\ShoeStoreManager\DAO\bin\Debug\System.Numerics.Vectors.xml
+E:\Công nghệ phần mềm\ShoeStoreManager\DAO\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Công nghệ phần mềm\ShoeStoreManager\DAO\obj\Debug\DAO.csproj.AssemblyReference.cache
+E:\Công nghệ phần mềm\ShoeStoreManager\DAO\obj\Debug\DAO.csproj.SuggestedBindingRedirects.cache
+E:\Công nghệ phần mềm\ShoeStoreManager\DAO\obj\Debug\DAO.Properties.Resources.resources
+E:\Công nghệ phần mềm\ShoeStoreManager\DAO\obj\Debug\DAO.csproj.GenerateResource.cache
+E:\Công nghệ phần mềm\ShoeStoreManager\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+E:\Công nghệ phần mềm\ShoeStoreManager\DAO\obj\Debug\DAO.csproj.CopyComplete
+E:\Công nghệ phần mềm\ShoeStoreManager\DAO\obj\Debug\DAO.exe
+E:\Công nghệ phần mềm\ShoeStoreManager\DAO\obj\Debug\DAO.pdb
+C:\Users\DELL\Desktop\ShoeStoreManager\DAO\bin\Debug\DAO.exe.config
+C:\Users\DELL\Desktop\ShoeStoreManager\DAO\bin\Debug\DAO.exe
+C:\Users\DELL\Desktop\ShoeStoreManager\DAO\bin\Debug\DAO.pdb
+C:\Users\DELL\Desktop\ShoeStoreManager\DAO\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\DELL\Desktop\ShoeStoreManager\DAO\bin\Debug\DTO.exe
+C:\Users\DELL\Desktop\ShoeStoreManager\DAO\bin\Debug\Google.Protobuf.dll
+C:\Users\DELL\Desktop\ShoeStoreManager\DAO\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\DELL\Desktop\ShoeStoreManager\DAO\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\DELL\Desktop\ShoeStoreManager\DAO\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\DELL\Desktop\ShoeStoreManager\DAO\bin\Debug\MySql.Data.dll
+C:\Users\DELL\Desktop\ShoeStoreManager\DAO\bin\Debug\System.Buffers.dll
+C:\Users\DELL\Desktop\ShoeStoreManager\DAO\bin\Debug\System.Memory.dll
+C:\Users\DELL\Desktop\ShoeStoreManager\DAO\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\DELL\Desktop\ShoeStoreManager\DAO\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\DELL\Desktop\ShoeStoreManager\DAO\bin\Debug\ZstdNet.dll
+C:\Users\DELL\Desktop\ShoeStoreManager\DAO\bin\Debug\DTO.pdb
+C:\Users\DELL\Desktop\ShoeStoreManager\DAO\bin\Debug\DTO.exe.config
+C:\Users\DELL\Desktop\ShoeStoreManager\DAO\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\DELL\Desktop\ShoeStoreManager\DAO\bin\Debug\Google.Protobuf.pdb
+C:\Users\DELL\Desktop\ShoeStoreManager\DAO\bin\Debug\Google.Protobuf.xml
+C:\Users\DELL\Desktop\ShoeStoreManager\DAO\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\DELL\Desktop\ShoeStoreManager\DAO\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\DELL\Desktop\ShoeStoreManager\DAO\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\DELL\Desktop\ShoeStoreManager\DAO\bin\Debug\MySql.Data.xml
+C:\Users\DELL\Desktop\ShoeStoreManager\DAO\bin\Debug\System.Buffers.xml
+C:\Users\DELL\Desktop\ShoeStoreManager\DAO\bin\Debug\System.Memory.xml
+C:\Users\DELL\Desktop\ShoeStoreManager\DAO\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\DELL\Desktop\ShoeStoreManager\DAO\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\DELL\Desktop\ShoeStoreManager\DAO\obj\Debug\DAO.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\ShoeStoreManager\DAO\obj\Debug\DAO.csproj.SuggestedBindingRedirects.cache
+C:\Users\DELL\Desktop\ShoeStoreManager\DAO\obj\Debug\DAO.Properties.Resources.resources
+C:\Users\DELL\Desktop\ShoeStoreManager\DAO\obj\Debug\DAO.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\ShoeStoreManager\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\ShoeStoreManager\DAO\obj\Debug\DAO.csproj.CopyComplete
+C:\Users\DELL\Desktop\ShoeStoreManager\DAO\obj\Debug\DAO.exe
+C:\Users\DELL\Desktop\ShoeStoreManager\DAO\obj\Debug\DAO.pdb
+C:\Users\kinhc\Desktop\ShoeStoreManager\DAO\bin\Debug\DAO.exe.config
+C:\Users\kinhc\Desktop\ShoeStoreManager\DAO\bin\Debug\DAO.exe
+C:\Users\kinhc\Desktop\ShoeStoreManager\DAO\bin\Debug\DAO.pdb
+C:\Users\kinhc\Desktop\ShoeStoreManager\DAO\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\kinhc\Desktop\ShoeStoreManager\DAO\bin\Debug\DTO.exe
+C:\Users\kinhc\Desktop\ShoeStoreManager\DAO\bin\Debug\Google.Protobuf.dll
+C:\Users\kinhc\Desktop\ShoeStoreManager\DAO\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\kinhc\Desktop\ShoeStoreManager\DAO\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\kinhc\Desktop\ShoeStoreManager\DAO\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\kinhc\Desktop\ShoeStoreManager\DAO\bin\Debug\MySql.Data.dll
+C:\Users\kinhc\Desktop\ShoeStoreManager\DAO\bin\Debug\System.Buffers.dll
+C:\Users\kinhc\Desktop\ShoeStoreManager\DAO\bin\Debug\System.Memory.dll
+C:\Users\kinhc\Desktop\ShoeStoreManager\DAO\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\kinhc\Desktop\ShoeStoreManager\DAO\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\kinhc\Desktop\ShoeStoreManager\DAO\bin\Debug\ZstdNet.dll
+C:\Users\kinhc\Desktop\ShoeStoreManager\DAO\bin\Debug\DTO.pdb
+C:\Users\kinhc\Desktop\ShoeStoreManager\DAO\bin\Debug\DTO.exe.config
+C:\Users\kinhc\Desktop\ShoeStoreManager\DAO\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\kinhc\Desktop\ShoeStoreManager\DAO\bin\Debug\Google.Protobuf.pdb
+C:\Users\kinhc\Desktop\ShoeStoreManager\DAO\bin\Debug\Google.Protobuf.xml
+C:\Users\kinhc\Desktop\ShoeStoreManager\DAO\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\kinhc\Desktop\ShoeStoreManager\DAO\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\kinhc\Desktop\ShoeStoreManager\DAO\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\kinhc\Desktop\ShoeStoreManager\DAO\bin\Debug\MySql.Data.xml
+C:\Users\kinhc\Desktop\ShoeStoreManager\DAO\bin\Debug\System.Buffers.xml
+C:\Users\kinhc\Desktop\ShoeStoreManager\DAO\bin\Debug\System.Memory.xml
+C:\Users\kinhc\Desktop\ShoeStoreManager\DAO\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\kinhc\Desktop\ShoeStoreManager\DAO\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\kinhc\Desktop\ShoeStoreManager\DAO\obj\Debug\DAO.csproj.AssemblyReference.cache
+C:\Users\kinhc\Desktop\ShoeStoreManager\DAO\obj\Debug\DAO.Properties.Resources.resources
+C:\Users\kinhc\Desktop\ShoeStoreManager\DAO\obj\Debug\DAO.csproj.GenerateResource.cache
+C:\Users\kinhc\Desktop\ShoeStoreManager\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+C:\Users\kinhc\Desktop\ShoeStoreManager\DAO\obj\Debug\DAO.csproj.CopyComplete
+C:\Users\kinhc\Desktop\ShoeStoreManager\DAO\obj\Debug\DAO.exe
+C:\Users\kinhc\Desktop\ShoeStoreManager\DAO\obj\Debug\DAO.pdb

@@ -1,0 +1,720 @@
+C:\Users\hddev\Desktop\IT\ShoeStoreManager\GUI\bin\Debug\GUI.exe.config
+C:\Users\hddev\Desktop\IT\ShoeStoreManager\GUI\bin\Debug\GUI.exe
+C:\Users\hddev\Desktop\IT\ShoeStoreManager\GUI\bin\Debug\GUI.pdb
+C:\Users\hddev\Desktop\IT\ShoeStoreManager\GUI\bin\Debug\Guna.UI2.dll
+C:\Users\hddev\Desktop\IT\ShoeStoreManager\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+C:\Users\hddev\Desktop\IT\ShoeStoreManager\GUI\obj\Debug\GUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\hddev\Desktop\IT\ShoeStoreManager\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\hddev\Desktop\IT\ShoeStoreManager\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\hddev\Desktop\IT\ShoeStoreManager\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\hddev\Desktop\IT\ShoeStoreManager\GUI\obj\Debug\GUI.csproj.CopyComplete
+C:\Users\hddev\Desktop\IT\ShoeStoreManager\GUI\obj\Debug\GUI.exe
+C:\Users\hddev\Desktop\IT\ShoeStoreManager\GUI\obj\Debug\GUI.pdb
+C:\Users\hddev\Desktop\IT\ShoeStoreManager\GUI\obj\Debug\GUI.MainGUI.resources
+C:\Users\hddev\Desktop\IT\ShoeStoreManager\GUI\obj\Debug\GUI.exe.config
+C:\Users\hddev\Desktop\IT\ShoeStoreManager\GUI\bin\Debug\BUS.exe
+C:\Users\hddev\Desktop\IT\ShoeStoreManager\GUI\bin\Debug\DTO.exe
+C:\Users\hddev\Desktop\IT\ShoeStoreManager\GUI\bin\Debug\DAO.exe
+C:\Users\hddev\Desktop\IT\ShoeStoreManager\GUI\bin\Debug\MySql.Data.dll
+C:\Users\hddev\Desktop\IT\ShoeStoreManager\GUI\bin\Debug\Google.Protobuf.dll
+C:\Users\hddev\Desktop\IT\ShoeStoreManager\GUI\bin\Debug\ZstdNet.dll
+C:\Users\hddev\Desktop\IT\ShoeStoreManager\GUI\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\hddev\Desktop\IT\ShoeStoreManager\GUI\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\hddev\Desktop\IT\ShoeStoreManager\GUI\bin\Debug\System.Memory.dll
+C:\Users\hddev\Desktop\IT\ShoeStoreManager\GUI\bin\Debug\System.Buffers.dll
+C:\Users\hddev\Desktop\IT\ShoeStoreManager\GUI\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\hddev\Desktop\IT\ShoeStoreManager\GUI\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\hddev\Desktop\IT\ShoeStoreManager\GUI\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\hddev\Desktop\IT\ShoeStoreManager\GUI\bin\Debug\BUS.pdb
+C:\Users\hddev\Desktop\IT\ShoeStoreManager\GUI\bin\Debug\BUS.exe.config
+C:\Users\hddev\Desktop\IT\ShoeStoreManager\GUI\bin\Debug\DTO.pdb
+C:\Users\hddev\Desktop\IT\ShoeStoreManager\GUI\bin\Debug\DTO.exe.config
+C:\Users\hddev\Desktop\IT\ShoeStoreManager\GUI\bin\Debug\DAO.pdb
+C:\Users\hddev\Desktop\IT\ShoeStoreManager\GUI\bin\Debug\DAO.exe.config
+C:\Users\hddev\Desktop\IT\ShoeStoreManager\GUI\bin\Debug\MySql.Data.xml
+C:\Users\hddev\Desktop\IT\ShoeStoreManager\GUI\bin\Debug\Google.Protobuf.pdb
+C:\Users\hddev\Desktop\IT\ShoeStoreManager\GUI\bin\Debug\Google.Protobuf.xml
+C:\Users\hddev\Desktop\IT\ShoeStoreManager\GUI\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\hddev\Desktop\IT\ShoeStoreManager\GUI\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\hddev\Desktop\IT\ShoeStoreManager\GUI\bin\Debug\System.Memory.xml
+C:\Users\hddev\Desktop\IT\ShoeStoreManager\GUI\bin\Debug\System.Buffers.xml
+C:\Users\hddev\Desktop\IT\ShoeStoreManager\GUI\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\hddev\Desktop\IT\ShoeStoreManager\GUI\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\hddev\Desktop\IT\ShoeStoreManager\GUI\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\hddev\Desktop\IT\ShoeStoreManager\GUI\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+C:\Users\hddev\Desktop\IT\ShoeStoreManager\GUI\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+C:\Users\hddev\Desktop\IT\ShoeStoreManager\GUI\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+C:\Users\hddev\Desktop\IT\ShoeStoreManager\GUI\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+C:\Users\hddev\Desktop\IT\ShoeStoreManager\GUI\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+C:\Users\hddev\Desktop\IT\ShoeStoreManager\GUI\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+C:\Users\hddev\Desktop\IT\ShoeStoreManager\GUI\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+C:\Users\hddev\Desktop\IT\ShoeStoreManager\GUI\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+C:\Users\hddev\Desktop\IT\ShoeStoreManager\GUI\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+C:\Users\hddev\Desktop\IT\ShoeStoreManager\GUI\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+C:\Users\hddev\Desktop\IT\ShoeStoreManager\GUI\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+C:\Users\hddev\Desktop\IT\ShoeStoreManager\GUI\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.dll
+C:\Users\hddev\Desktop\IT\ShoeStoreManager\GUI\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+C:\Users\hddev\Desktop\IT\ShoeStoreManager\GUI\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+C:\Users\hddev\Desktop\IT\ShoeStoreManager\GUI\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+C:\Users\hddev\Desktop\IT\ShoeStoreManager\GUI\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+C:\Users\hddev\Desktop\IT\ShoeStoreManager\GUI\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+C:\Users\hddev\Desktop\IT\ShoeStoreManager\GUI\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+C:\Users\hddev\Desktop\IT\ShoeStoreManager\GUI\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+C:\Users\hddev\Desktop\IT\ShoeStoreManager\GUI\bin\Debug\Bunifu.UI.WinForms.BunifuRating.dll
+C:\Users\hddev\Desktop\IT\ShoeStoreManager\GUI\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+C:\Users\hddev\Desktop\IT\ShoeStoreManager\GUI\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.dll
+C:\Users\hddev\Desktop\IT\ShoeStoreManager\GUI\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+C:\Users\hddev\Desktop\IT\ShoeStoreManager\GUI\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.dll
+C:\Users\hddev\Desktop\IT\ShoeStoreManager\GUI\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+C:\Users\hddev\Desktop\IT\ShoeStoreManager\GUI\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.dll
+C:\Users\hddev\Desktop\IT\ShoeStoreManager\GUI\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.dll
+C:\Users\hddev\Desktop\IT\ShoeStoreManager\GUI\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+C:\Users\hddev\Desktop\IT\ShoeStoreManager\GUI\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+C:\Users\hddev\Desktop\IT\ShoeStoreManager\GUI\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+C:\Users\hddev\Desktop\IT\ShoeStoreManager\GUI\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+C:\Users\hddev\Desktop\IT\ShoeStoreManager\GUI\bin\Debug\Bunifu.UI.WinForms.Deprecated.dll
+C:\Users\hddev\Desktop\IT\ShoeStoreManager\GUI\bin\Debug\Bunifu.Licensing.dll
+C:\Users\hddev\Desktop\IT\ShoeStoreManager\GUI\obj\Debug\GUI.ListCustomer.resources
+C:\Users\hddev\Desktop\IT\ShoeStoreManager\GUI\obj\Debug\GUI.ListProduct.resources
+C:\Users\hddev\Desktop\IT\ShoeStoreManager\GUI\obj\Debug\GUI.ListStaff.resources
+C:\Users\hddev\Desktop\IT\ShoeStoreManager\GUI\obj\Debug\GUI.ProductManager.resources
+C:\Users\hddev\Desktop\IT\ShoeStoreManager\GUI\obj\Debug\GUI.exe.licenses
+C:\Users\hddev\Desktop\IT\ShoeStoreManager\GUI\bin\Debug\ComponentFactory.Krypton.Design.dll
+C:\Users\hddev\Desktop\IT\ShoeStoreManager\GUI\bin\Debug\ComponentFactory.Krypton.Docking.dll
+C:\Users\hddev\Desktop\IT\ShoeStoreManager\GUI\bin\Debug\ComponentFactory.Krypton.Navigator.dll
+C:\Users\hddev\Desktop\IT\ShoeStoreManager\GUI\bin\Debug\ComponentFactory.Krypton.Ribbon.dll
+C:\Users\hddev\Desktop\IT\ShoeStoreManager\GUI\bin\Debug\ComponentFactory.Krypton.Toolkit.dll
+C:\Users\hddev\Desktop\IT\ShoeStoreManager\GUI\bin\Debug\ComponentFactory.Krypton.Workspace.dll
+C:\Users\hddev\Desktop\IT\ShoeStoreManager\GUI\obj\Debug\GUI.BillDetail.resources
+C:\Users\hddev\Desktop\IT\ShoeStoreManager\GUI\obj\Debug\GUI.BillUpdate.resources
+C:\Users\hddev\Desktop\IT\ShoeStoreManager\GUI\obj\Debug\GUI.ChooseCustomer.resources
+C:\Users\hddev\Desktop\IT\ShoeStoreManager\GUI\obj\Debug\GUI.ChooseStaff.resources
+C:\Users\hddev\Desktop\IT\ShoeStoreManager\GUI\obj\Debug\GUI.ChooseStaff_import.resources
+C:\Users\hddev\Desktop\IT\ShoeStoreManager\GUI\obj\Debug\GUI.ChooseSupplier_Import.resources
+C:\Users\hddev\Desktop\IT\ShoeStoreManager\GUI\obj\Debug\GUI.CreateImport.resources
+C:\Users\hddev\Desktop\IT\ShoeStoreManager\GUI\obj\Debug\GUI.ImportManager.resources
+C:\Users\hddev\Desktop\IT\ShoeStoreManager\GUI\obj\Debug\GUI.ShowStaff.resources
+C:\Users\hddev\Desktop\IT\ShoeStoreManager\GUI\obj\Debug\GUI.ShowSupplier.resources
+C:\Users\hddev\Desktop\IT\ShoeStoreManager\GUI\obj\Debug\GUI.UpdateImport.resources
+C:\Users\hddev\Desktop\IT\ShoeStoreManager\GUI\obj\Debug\GUI.Product.resources
+C:\Users\hddev\Desktop\IT\ShoeStoreManager\GUI\obj\Debug\GUI.LoginGUI.resources
+C:\Users\hddev\Desktop\IT\ShoeStoreManager\GUI\obj\Debug\GUI.csproj.ResolveComReference.cache
+C:\Users\hddev\Desktop\IT\ShoeStoreManager\GUI\obj\Debug\GUI.BillManagerGUI.resources
+C:\Users\hddev\Desktop\IT\ShoeStoreManager\GUI\obj\Debug\GUI.Dashboard.resources
+C:\Users\hddev\Desktop\IT\ShoeStoreManager\GUI\obj\Debug\GUI.Sale.resources
+C:\Users\hddev\Desktop\IT\ShoeStoreManager\GUI\obj\Debug\GUI.StaffManager.resources
+C:\Users\hddev\Desktop\IT\ShoeStoreManager\GUI\obj\Debug\GUI.CustomerGUI.resources
+C:\Users\hddev\Desktop\IT\ShoeStoreManager\GUI\obj\Debug\GUI.SupplierGUI.resources
+C:\Users\hddev\Desktop\IT\ShoeStoreManager\GUI\obj\Debug\GUI.ProductLists.resources
+C:\Users\hddev\Desktop\IT\ShoeStoreManager\GUI\obj\Debug\GUI.ImportDetail.resources
+C:\Users\hddev\Desktop\IT\ShoeStoreManager\GUI\obj\Debug\GUI.AccountGUI.resources
+C:\Users\hddev\Desktop\IT\ShoeStoreManager\GUI\obj\Debug\GUI.Profile.resources
+C:\Users\hddev\Desktop\IT\ShoeStoreManager\GUI\obj\Debug\GUI.RoleFuncGUI.resources
+C:\Users\hddev\Desktop\IT\ShoeStoreManager\GUI\obj\Debug\GUI.StatisticGUI.resources
+C:\Users\hddev\Desktop\IT\ShoeStoreManager\GUI\obj\Debug\GUI.SubFuncGUI.resources
+C:\Users\hddev\Desktop\IT\ShoeStoreManager\GUI\obj\Debug\GUI.SubRoleGUI.resources
+C:\Users\hddev\Desktop\IT\ShoeStoreManager\GUI\obj\Debug\GUI.ProductDetail.resources
+C:\Users\hddev\Desktop\IT\ShoeStoreManager\GUI\obj\Debug\GUI.SubProductGUI.resources
+C:\Users\hddev\Desktop\IT\ShoeStoreManager\GUI\obj\Debug\GUI.StaffGUI.resources
+E:\C#\ShoeStoreManager\GUI\bin\Debug\GUI.exe.config
+E:\C#\ShoeStoreManager\GUI\bin\Debug\GUI.exe
+E:\C#\ShoeStoreManager\GUI\bin\Debug\GUI.pdb
+E:\C#\ShoeStoreManager\GUI\bin\Debug\Bunifu.Licensing.dll
+E:\C#\ShoeStoreManager\GUI\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+E:\C#\ShoeStoreManager\GUI\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+E:\C#\ShoeStoreManager\GUI\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+E:\C#\ShoeStoreManager\GUI\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+E:\C#\ShoeStoreManager\GUI\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+E:\C#\ShoeStoreManager\GUI\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+E:\C#\ShoeStoreManager\GUI\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+E:\C#\ShoeStoreManager\GUI\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+E:\C#\ShoeStoreManager\GUI\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+E:\C#\ShoeStoreManager\GUI\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+E:\C#\ShoeStoreManager\GUI\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+E:\C#\ShoeStoreManager\GUI\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.dll
+E:\C#\ShoeStoreManager\GUI\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+E:\C#\ShoeStoreManager\GUI\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+E:\C#\ShoeStoreManager\GUI\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+E:\C#\ShoeStoreManager\GUI\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+E:\C#\ShoeStoreManager\GUI\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+E:\C#\ShoeStoreManager\GUI\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+E:\C#\ShoeStoreManager\GUI\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+E:\C#\ShoeStoreManager\GUI\bin\Debug\Bunifu.UI.WinForms.BunifuRating.dll
+E:\C#\ShoeStoreManager\GUI\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+E:\C#\ShoeStoreManager\GUI\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.dll
+E:\C#\ShoeStoreManager\GUI\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+E:\C#\ShoeStoreManager\GUI\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.dll
+E:\C#\ShoeStoreManager\GUI\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+E:\C#\ShoeStoreManager\GUI\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.dll
+E:\C#\ShoeStoreManager\GUI\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.dll
+E:\C#\ShoeStoreManager\GUI\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+E:\C#\ShoeStoreManager\GUI\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+E:\C#\ShoeStoreManager\GUI\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+E:\C#\ShoeStoreManager\GUI\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+E:\C#\ShoeStoreManager\GUI\bin\Debug\Bunifu.UI.WinForms.Deprecated.dll
+E:\C#\ShoeStoreManager\GUI\bin\Debug\BUS.exe
+E:\C#\ShoeStoreManager\GUI\bin\Debug\ComponentFactory.Krypton.Design.dll
+E:\C#\ShoeStoreManager\GUI\bin\Debug\ComponentFactory.Krypton.Docking.dll
+E:\C#\ShoeStoreManager\GUI\bin\Debug\ComponentFactory.Krypton.Navigator.dll
+E:\C#\ShoeStoreManager\GUI\bin\Debug\ComponentFactory.Krypton.Ribbon.dll
+E:\C#\ShoeStoreManager\GUI\bin\Debug\ComponentFactory.Krypton.Toolkit.dll
+E:\C#\ShoeStoreManager\GUI\bin\Debug\ComponentFactory.Krypton.Workspace.dll
+E:\C#\ShoeStoreManager\GUI\bin\Debug\DAO.exe
+E:\C#\ShoeStoreManager\GUI\bin\Debug\DTO.exe
+E:\C#\ShoeStoreManager\GUI\bin\Debug\Guna.UI2.dll
+E:\C#\ShoeStoreManager\GUI\bin\Debug\MySql.Data.dll
+E:\C#\ShoeStoreManager\GUI\bin\Debug\Google.Protobuf.dll
+E:\C#\ShoeStoreManager\GUI\bin\Debug\ZstdNet.dll
+E:\C#\ShoeStoreManager\GUI\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\C#\ShoeStoreManager\GUI\bin\Debug\BouncyCastle.Crypto.dll
+E:\C#\ShoeStoreManager\GUI\bin\Debug\System.Memory.dll
+E:\C#\ShoeStoreManager\GUI\bin\Debug\System.Buffers.dll
+E:\C#\ShoeStoreManager\GUI\bin\Debug\K4os.Compression.LZ4.dll
+E:\C#\ShoeStoreManager\GUI\bin\Debug\K4os.Hash.xxHash.dll
+E:\C#\ShoeStoreManager\GUI\bin\Debug\System.Numerics.Vectors.dll
+E:\C#\ShoeStoreManager\GUI\bin\Debug\BUS.pdb
+E:\C#\ShoeStoreManager\GUI\bin\Debug\BUS.exe.config
+E:\C#\ShoeStoreManager\GUI\bin\Debug\DAO.pdb
+E:\C#\ShoeStoreManager\GUI\bin\Debug\DAO.exe.config
+E:\C#\ShoeStoreManager\GUI\bin\Debug\DTO.pdb
+E:\C#\ShoeStoreManager\GUI\bin\Debug\DTO.exe.config
+E:\C#\ShoeStoreManager\GUI\bin\Debug\MySql.Data.xml
+E:\C#\ShoeStoreManager\GUI\bin\Debug\Google.Protobuf.pdb
+E:\C#\ShoeStoreManager\GUI\bin\Debug\Google.Protobuf.xml
+E:\C#\ShoeStoreManager\GUI\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\C#\ShoeStoreManager\GUI\bin\Debug\BouncyCastle.Crypto.xml
+E:\C#\ShoeStoreManager\GUI\bin\Debug\System.Memory.xml
+E:\C#\ShoeStoreManager\GUI\bin\Debug\System.Buffers.xml
+E:\C#\ShoeStoreManager\GUI\bin\Debug\K4os.Compression.LZ4.xml
+E:\C#\ShoeStoreManager\GUI\bin\Debug\K4os.Hash.xxHash.xml
+E:\C#\ShoeStoreManager\GUI\bin\Debug\System.Numerics.Vectors.xml
+E:\C#\ShoeStoreManager\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+E:\C#\ShoeStoreManager\GUI\obj\Debug\GUI.csproj.SuggestedBindingRedirects.cache
+E:\C#\ShoeStoreManager\GUI\obj\Debug\GUI.exe.config
+E:\C#\ShoeStoreManager\GUI\obj\Debug\GUI.csproj.ResolveComReference.cache
+E:\C#\ShoeStoreManager\GUI\obj\Debug\GUI.AccountGUI.resources
+E:\C#\ShoeStoreManager\GUI\obj\Debug\GUI.BillDetail.resources
+E:\C#\ShoeStoreManager\GUI\obj\Debug\GUI.BillManagerGUI.resources
+E:\C#\ShoeStoreManager\GUI\obj\Debug\GUI.BillUpdate.resources
+E:\C#\ShoeStoreManager\GUI\obj\Debug\GUI.ChooseCustomer.resources
+E:\C#\ShoeStoreManager\GUI\obj\Debug\GUI.ChooseStaff.resources
+E:\C#\ShoeStoreManager\GUI\obj\Debug\GUI.ChooseStaff_import.resources
+E:\C#\ShoeStoreManager\GUI\obj\Debug\GUI.ChooseSupplier_Import.resources
+E:\C#\ShoeStoreManager\GUI\obj\Debug\GUI.CreateImport.resources
+E:\C#\ShoeStoreManager\GUI\obj\Debug\GUI.CustomerGUI.resources
+E:\C#\ShoeStoreManager\GUI\obj\Debug\GUI.Dashboard.resources
+E:\C#\ShoeStoreManager\GUI\obj\Debug\GUI.ImportDetail.resources
+E:\C#\ShoeStoreManager\GUI\obj\Debug\GUI.LoginGUI.resources
+E:\C#\ShoeStoreManager\GUI\obj\Debug\GUI.Product.resources
+E:\C#\ShoeStoreManager\GUI\obj\Debug\GUI.ProductLists.resources
+E:\C#\ShoeStoreManager\GUI\obj\Debug\GUI.ProductManager.resources
+E:\C#\ShoeStoreManager\GUI\obj\Debug\GUI.RoleFuncGUI.resources
+E:\C#\ShoeStoreManager\GUI\obj\Debug\GUI.StaffGUI.resources
+E:\C#\ShoeStoreManager\GUI\obj\Debug\GUI.StaffManager.resources
+E:\C#\ShoeStoreManager\GUI\obj\Debug\GUI.StatisticGUI.resources
+E:\C#\ShoeStoreManager\GUI\obj\Debug\GUI.SubFuncGUI.resources
+E:\C#\ShoeStoreManager\GUI\obj\Debug\GUI.SubRoleGUI.resources
+E:\C#\ShoeStoreManager\GUI\obj\Debug\GUI.SubProductGUI.resources
+E:\C#\ShoeStoreManager\GUI\obj\Debug\GUI.SupplierGUI.resources
+E:\C#\ShoeStoreManager\GUI\obj\Debug\GUI.ImportManager.resources
+E:\C#\ShoeStoreManager\GUI\obj\Debug\GUI.ListCustomer.resources
+E:\C#\ShoeStoreManager\GUI\obj\Debug\GUI.ListProduct.resources
+E:\C#\ShoeStoreManager\GUI\obj\Debug\GUI.ListStaff.resources
+E:\C#\ShoeStoreManager\GUI\obj\Debug\GUI.MainGUI.resources
+E:\C#\ShoeStoreManager\GUI\obj\Debug\GUI.ProductDetail.resources
+E:\C#\ShoeStoreManager\GUI\obj\Debug\GUI.Profile.resources
+E:\C#\ShoeStoreManager\GUI\obj\Debug\GUI.Properties.Resources.resources
+E:\C#\ShoeStoreManager\GUI\obj\Debug\GUI.Sale.resources
+E:\C#\ShoeStoreManager\GUI\obj\Debug\GUI.ShowStaff.resources
+E:\C#\ShoeStoreManager\GUI\obj\Debug\GUI.ShowSupplier.resources
+E:\C#\ShoeStoreManager\GUI\obj\Debug\GUI.UpdateImport.resources
+E:\C#\ShoeStoreManager\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+E:\C#\ShoeStoreManager\GUI\obj\Debug\GUI.exe.licenses
+E:\C#\ShoeStoreManager\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+E:\C#\ShoeStoreManager\GUI\obj\Debug\GUI.csproj.CopyComplete
+E:\C#\ShoeStoreManager\GUI\obj\Debug\GUI.exe
+E:\C#\ShoeStoreManager\GUI\obj\Debug\GUI.pdb
+C:\Users\kinhc\Documents\C#\Project\ShoeStoreManager\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+C:\Users\kinhc\Documents\C#\Project\ShoeStoreManager\GUI\obj\Debug\GUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\kinhc\Documents\C#\Project\ShoeStoreManager\GUI\obj\Debug\GUI.exe.config
+C:\Users\kinhc\Documents\C#\Project\ShoeStoreManager\GUI\obj\Debug\GUI.csproj.ResolveComReference.cache
+C:\Users\kinhc\Documents\C#\Project\ShoeStoreManager\GUI\obj\Debug\GUI.AccountGUI.resources
+C:\Users\kinhc\Documents\C#\Project\ShoeStoreManager\GUI\obj\Debug\GUI.BillDetail.resources
+C:\Users\kinhc\Documents\C#\Project\ShoeStoreManager\GUI\obj\Debug\GUI.BillManagerGUI.resources
+C:\Users\kinhc\Documents\C#\Project\ShoeStoreManager\GUI\obj\Debug\GUI.BillUpdate.resources
+C:\Users\kinhc\Documents\C#\Project\ShoeStoreManager\GUI\obj\Debug\GUI.ChooseCustomer.resources
+C:\Users\kinhc\Documents\C#\Project\ShoeStoreManager\GUI\obj\Debug\GUI.ChooseStaff.resources
+C:\Users\kinhc\Documents\C#\Project\ShoeStoreManager\GUI\obj\Debug\GUI.ChooseStaff_import.resources
+C:\Users\kinhc\Documents\C#\Project\ShoeStoreManager\GUI\obj\Debug\GUI.ChooseSupplier_Import.resources
+C:\Users\kinhc\Documents\C#\Project\ShoeStoreManager\GUI\obj\Debug\GUI.CreateImport.resources
+C:\Users\kinhc\Documents\C#\Project\ShoeStoreManager\GUI\obj\Debug\GUI.CustomerGUI.resources
+C:\Users\kinhc\Documents\C#\Project\ShoeStoreManager\GUI\obj\Debug\GUI.Dashboard.resources
+C:\Users\kinhc\Documents\C#\Project\ShoeStoreManager\GUI\obj\Debug\GUI.ImportDetail.resources
+C:\Users\kinhc\Documents\C#\Project\ShoeStoreManager\GUI\obj\Debug\GUI.LoginGUI.resources
+C:\Users\kinhc\Documents\C#\Project\ShoeStoreManager\GUI\obj\Debug\GUI.Product.resources
+C:\Users\kinhc\Documents\C#\Project\ShoeStoreManager\GUI\obj\Debug\GUI.ProductLists.resources
+C:\Users\kinhc\Documents\C#\Project\ShoeStoreManager\GUI\obj\Debug\GUI.ProductManager.resources
+C:\Users\kinhc\Documents\C#\Project\ShoeStoreManager\GUI\obj\Debug\GUI.RoleFuncGUI.resources
+C:\Users\kinhc\Documents\C#\Project\ShoeStoreManager\GUI\obj\Debug\GUI.StaffGUI.resources
+C:\Users\kinhc\Documents\C#\Project\ShoeStoreManager\GUI\obj\Debug\GUI.StaffManager.resources
+C:\Users\kinhc\Documents\C#\Project\ShoeStoreManager\GUI\obj\Debug\GUI.StatisticGUI.resources
+C:\Users\kinhc\Documents\C#\Project\ShoeStoreManager\GUI\obj\Debug\GUI.SubFuncGUI.resources
+C:\Users\kinhc\Documents\C#\Project\ShoeStoreManager\GUI\obj\Debug\GUI.SubRoleGUI.resources
+C:\Users\kinhc\Documents\C#\Project\ShoeStoreManager\GUI\obj\Debug\GUI.SubProductGUI.resources
+C:\Users\kinhc\Documents\C#\Project\ShoeStoreManager\GUI\obj\Debug\GUI.SupplierGUI.resources
+C:\Users\kinhc\Documents\C#\Project\ShoeStoreManager\GUI\obj\Debug\GUI.ImportManager.resources
+C:\Users\kinhc\Documents\C#\Project\ShoeStoreManager\GUI\obj\Debug\GUI.ListCustomer.resources
+C:\Users\kinhc\Documents\C#\Project\ShoeStoreManager\GUI\obj\Debug\GUI.ListProduct.resources
+C:\Users\kinhc\Documents\C#\Project\ShoeStoreManager\GUI\obj\Debug\GUI.ListStaff.resources
+C:\Users\kinhc\Documents\C#\Project\ShoeStoreManager\GUI\obj\Debug\GUI.MainGUI.resources
+C:\Users\kinhc\Documents\C#\Project\ShoeStoreManager\GUI\obj\Debug\GUI.ProductDetail.resources
+C:\Users\kinhc\Documents\C#\Project\ShoeStoreManager\GUI\obj\Debug\GUI.Profile.resources
+C:\Users\kinhc\Documents\C#\Project\ShoeStoreManager\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\kinhc\Documents\C#\Project\ShoeStoreManager\GUI\obj\Debug\GUI.Sale.resources
+C:\Users\kinhc\Documents\C#\Project\ShoeStoreManager\GUI\obj\Debug\GUI.ShowStaff.resources
+C:\Users\kinhc\Documents\C#\Project\ShoeStoreManager\GUI\obj\Debug\GUI.ShowSupplier.resources
+C:\Users\kinhc\Documents\C#\Project\ShoeStoreManager\GUI\obj\Debug\GUI.UpdateImport.resources
+C:\Users\kinhc\Documents\C#\Project\ShoeStoreManager\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\kinhc\Documents\C#\Project\ShoeStoreManager\GUI\obj\Debug\GUI.exe.licenses
+C:\Users\kinhc\Documents\C#\Project\ShoeStoreManager\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\kinhc\Documents\C#\Project\ShoeStoreManager\GUI\bin\Debug\GUI.exe.config
+C:\Users\kinhc\Documents\C#\Project\ShoeStoreManager\GUI\bin\Debug\GUI.exe
+C:\Users\kinhc\Documents\C#\Project\ShoeStoreManager\GUI\bin\Debug\GUI.pdb
+C:\Users\kinhc\Documents\C#\Project\ShoeStoreManager\GUI\bin\Debug\Bunifu.Licensing.dll
+C:\Users\kinhc\Documents\C#\Project\ShoeStoreManager\GUI\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+C:\Users\kinhc\Documents\C#\Project\ShoeStoreManager\GUI\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+C:\Users\kinhc\Documents\C#\Project\ShoeStoreManager\GUI\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+C:\Users\kinhc\Documents\C#\Project\ShoeStoreManager\GUI\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+C:\Users\kinhc\Documents\C#\Project\ShoeStoreManager\GUI\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+C:\Users\kinhc\Documents\C#\Project\ShoeStoreManager\GUI\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+C:\Users\kinhc\Documents\C#\Project\ShoeStoreManager\GUI\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+C:\Users\kinhc\Documents\C#\Project\ShoeStoreManager\GUI\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+C:\Users\kinhc\Documents\C#\Project\ShoeStoreManager\GUI\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+C:\Users\kinhc\Documents\C#\Project\ShoeStoreManager\GUI\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+C:\Users\kinhc\Documents\C#\Project\ShoeStoreManager\GUI\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+C:\Users\kinhc\Documents\C#\Project\ShoeStoreManager\GUI\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.dll
+C:\Users\kinhc\Documents\C#\Project\ShoeStoreManager\GUI\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+C:\Users\kinhc\Documents\C#\Project\ShoeStoreManager\GUI\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+C:\Users\kinhc\Documents\C#\Project\ShoeStoreManager\GUI\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+C:\Users\kinhc\Documents\C#\Project\ShoeStoreManager\GUI\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+C:\Users\kinhc\Documents\C#\Project\ShoeStoreManager\GUI\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+C:\Users\kinhc\Documents\C#\Project\ShoeStoreManager\GUI\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+C:\Users\kinhc\Documents\C#\Project\ShoeStoreManager\GUI\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+C:\Users\kinhc\Documents\C#\Project\ShoeStoreManager\GUI\bin\Debug\Bunifu.UI.WinForms.BunifuRating.dll
+C:\Users\kinhc\Documents\C#\Project\ShoeStoreManager\GUI\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+C:\Users\kinhc\Documents\C#\Project\ShoeStoreManager\GUI\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.dll
+C:\Users\kinhc\Documents\C#\Project\ShoeStoreManager\GUI\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+C:\Users\kinhc\Documents\C#\Project\ShoeStoreManager\GUI\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.dll
+C:\Users\kinhc\Documents\C#\Project\ShoeStoreManager\GUI\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+C:\Users\kinhc\Documents\C#\Project\ShoeStoreManager\GUI\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.dll
+C:\Users\kinhc\Documents\C#\Project\ShoeStoreManager\GUI\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.dll
+C:\Users\kinhc\Documents\C#\Project\ShoeStoreManager\GUI\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+C:\Users\kinhc\Documents\C#\Project\ShoeStoreManager\GUI\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+C:\Users\kinhc\Documents\C#\Project\ShoeStoreManager\GUI\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+C:\Users\kinhc\Documents\C#\Project\ShoeStoreManager\GUI\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+C:\Users\kinhc\Documents\C#\Project\ShoeStoreManager\GUI\bin\Debug\Bunifu.UI.WinForms.Deprecated.dll
+C:\Users\kinhc\Documents\C#\Project\ShoeStoreManager\GUI\bin\Debug\BUS.exe
+C:\Users\kinhc\Documents\C#\Project\ShoeStoreManager\GUI\bin\Debug\ComponentFactory.Krypton.Design.dll
+C:\Users\kinhc\Documents\C#\Project\ShoeStoreManager\GUI\bin\Debug\ComponentFactory.Krypton.Docking.dll
+C:\Users\kinhc\Documents\C#\Project\ShoeStoreManager\GUI\bin\Debug\ComponentFactory.Krypton.Navigator.dll
+C:\Users\kinhc\Documents\C#\Project\ShoeStoreManager\GUI\bin\Debug\ComponentFactory.Krypton.Ribbon.dll
+C:\Users\kinhc\Documents\C#\Project\ShoeStoreManager\GUI\bin\Debug\ComponentFactory.Krypton.Toolkit.dll
+C:\Users\kinhc\Documents\C#\Project\ShoeStoreManager\GUI\bin\Debug\ComponentFactory.Krypton.Workspace.dll
+C:\Users\kinhc\Documents\C#\Project\ShoeStoreManager\GUI\bin\Debug\DAO.exe
+C:\Users\kinhc\Documents\C#\Project\ShoeStoreManager\GUI\bin\Debug\DTO.exe
+C:\Users\kinhc\Documents\C#\Project\ShoeStoreManager\GUI\bin\Debug\Guna.UI2.dll
+C:\Users\kinhc\Documents\C#\Project\ShoeStoreManager\GUI\bin\Debug\MySql.Data.dll
+C:\Users\kinhc\Documents\C#\Project\ShoeStoreManager\GUI\bin\Debug\Google.Protobuf.dll
+C:\Users\kinhc\Documents\C#\Project\ShoeStoreManager\GUI\bin\Debug\ZstdNet.dll
+C:\Users\kinhc\Documents\C#\Project\ShoeStoreManager\GUI\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\kinhc\Documents\C#\Project\ShoeStoreManager\GUI\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\kinhc\Documents\C#\Project\ShoeStoreManager\GUI\bin\Debug\System.Memory.dll
+C:\Users\kinhc\Documents\C#\Project\ShoeStoreManager\GUI\bin\Debug\System.Buffers.dll
+C:\Users\kinhc\Documents\C#\Project\ShoeStoreManager\GUI\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\kinhc\Documents\C#\Project\ShoeStoreManager\GUI\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\kinhc\Documents\C#\Project\ShoeStoreManager\GUI\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\kinhc\Documents\C#\Project\ShoeStoreManager\GUI\bin\Debug\BUS.pdb
+C:\Users\kinhc\Documents\C#\Project\ShoeStoreManager\GUI\bin\Debug\BUS.exe.config
+C:\Users\kinhc\Documents\C#\Project\ShoeStoreManager\GUI\bin\Debug\DAO.pdb
+C:\Users\kinhc\Documents\C#\Project\ShoeStoreManager\GUI\bin\Debug\DAO.exe.config
+C:\Users\kinhc\Documents\C#\Project\ShoeStoreManager\GUI\bin\Debug\DTO.pdb
+C:\Users\kinhc\Documents\C#\Project\ShoeStoreManager\GUI\bin\Debug\DTO.exe.config
+C:\Users\kinhc\Documents\C#\Project\ShoeStoreManager\GUI\bin\Debug\MySql.Data.xml
+C:\Users\kinhc\Documents\C#\Project\ShoeStoreManager\GUI\bin\Debug\Google.Protobuf.pdb
+C:\Users\kinhc\Documents\C#\Project\ShoeStoreManager\GUI\bin\Debug\Google.Protobuf.xml
+C:\Users\kinhc\Documents\C#\Project\ShoeStoreManager\GUI\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\kinhc\Documents\C#\Project\ShoeStoreManager\GUI\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\kinhc\Documents\C#\Project\ShoeStoreManager\GUI\bin\Debug\System.Memory.xml
+C:\Users\kinhc\Documents\C#\Project\ShoeStoreManager\GUI\bin\Debug\System.Buffers.xml
+C:\Users\kinhc\Documents\C#\Project\ShoeStoreManager\GUI\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\kinhc\Documents\C#\Project\ShoeStoreManager\GUI\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\kinhc\Documents\C#\Project\ShoeStoreManager\GUI\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\kinhc\Documents\C#\Project\ShoeStoreManager\GUI\obj\Debug\GUI.csproj.CopyComplete
+C:\Users\kinhc\Documents\C#\Project\ShoeStoreManager\GUI\obj\Debug\GUI.exe
+C:\Users\kinhc\Documents\C#\Project\ShoeStoreManager\GUI\obj\Debug\GUI.pdb
+E:\Công nghệ phần mềm\ShoeStoreManager\GUI\bin\Debug\GUI.exe.config
+E:\Công nghệ phần mềm\ShoeStoreManager\GUI\bin\Debug\GUI.exe
+E:\Công nghệ phần mềm\ShoeStoreManager\GUI\bin\Debug\GUI.pdb
+E:\Công nghệ phần mềm\ShoeStoreManager\GUI\bin\Debug\Bunifu.Licensing.dll
+E:\Công nghệ phần mềm\ShoeStoreManager\GUI\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+E:\Công nghệ phần mềm\ShoeStoreManager\GUI\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+E:\Công nghệ phần mềm\ShoeStoreManager\GUI\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+E:\Công nghệ phần mềm\ShoeStoreManager\GUI\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+E:\Công nghệ phần mềm\ShoeStoreManager\GUI\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+E:\Công nghệ phần mềm\ShoeStoreManager\GUI\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+E:\Công nghệ phần mềm\ShoeStoreManager\GUI\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+E:\Công nghệ phần mềm\ShoeStoreManager\GUI\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+E:\Công nghệ phần mềm\ShoeStoreManager\GUI\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+E:\Công nghệ phần mềm\ShoeStoreManager\GUI\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+E:\Công nghệ phần mềm\ShoeStoreManager\GUI\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+E:\Công nghệ phần mềm\ShoeStoreManager\GUI\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.dll
+E:\Công nghệ phần mềm\ShoeStoreManager\GUI\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+E:\Công nghệ phần mềm\ShoeStoreManager\GUI\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+E:\Công nghệ phần mềm\ShoeStoreManager\GUI\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+E:\Công nghệ phần mềm\ShoeStoreManager\GUI\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+E:\Công nghệ phần mềm\ShoeStoreManager\GUI\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+E:\Công nghệ phần mềm\ShoeStoreManager\GUI\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+E:\Công nghệ phần mềm\ShoeStoreManager\GUI\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+E:\Công nghệ phần mềm\ShoeStoreManager\GUI\bin\Debug\Bunifu.UI.WinForms.BunifuRating.dll
+E:\Công nghệ phần mềm\ShoeStoreManager\GUI\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+E:\Công nghệ phần mềm\ShoeStoreManager\GUI\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.dll
+E:\Công nghệ phần mềm\ShoeStoreManager\GUI\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+E:\Công nghệ phần mềm\ShoeStoreManager\GUI\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.dll
+E:\Công nghệ phần mềm\ShoeStoreManager\GUI\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+E:\Công nghệ phần mềm\ShoeStoreManager\GUI\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.dll
+E:\Công nghệ phần mềm\ShoeStoreManager\GUI\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.dll
+E:\Công nghệ phần mềm\ShoeStoreManager\GUI\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+E:\Công nghệ phần mềm\ShoeStoreManager\GUI\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+E:\Công nghệ phần mềm\ShoeStoreManager\GUI\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+E:\Công nghệ phần mềm\ShoeStoreManager\GUI\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+E:\Công nghệ phần mềm\ShoeStoreManager\GUI\bin\Debug\Bunifu.UI.WinForms.Deprecated.dll
+E:\Công nghệ phần mềm\ShoeStoreManager\GUI\bin\Debug\BUS.exe
+E:\Công nghệ phần mềm\ShoeStoreManager\GUI\bin\Debug\ComponentFactory.Krypton.Design.dll
+E:\Công nghệ phần mềm\ShoeStoreManager\GUI\bin\Debug\ComponentFactory.Krypton.Docking.dll
+E:\Công nghệ phần mềm\ShoeStoreManager\GUI\bin\Debug\ComponentFactory.Krypton.Navigator.dll
+E:\Công nghệ phần mềm\ShoeStoreManager\GUI\bin\Debug\ComponentFactory.Krypton.Ribbon.dll
+E:\Công nghệ phần mềm\ShoeStoreManager\GUI\bin\Debug\ComponentFactory.Krypton.Toolkit.dll
+E:\Công nghệ phần mềm\ShoeStoreManager\GUI\bin\Debug\ComponentFactory.Krypton.Workspace.dll
+E:\Công nghệ phần mềm\ShoeStoreManager\GUI\bin\Debug\DAO.exe
+E:\Công nghệ phần mềm\ShoeStoreManager\GUI\bin\Debug\DTO.exe
+E:\Công nghệ phần mềm\ShoeStoreManager\GUI\bin\Debug\Guna.UI2.dll
+E:\Công nghệ phần mềm\ShoeStoreManager\GUI\bin\Debug\MySql.Data.dll
+E:\Công nghệ phần mềm\ShoeStoreManager\GUI\bin\Debug\Google.Protobuf.dll
+E:\Công nghệ phần mềm\ShoeStoreManager\GUI\bin\Debug\ZstdNet.dll
+E:\Công nghệ phần mềm\ShoeStoreManager\GUI\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\Công nghệ phần mềm\ShoeStoreManager\GUI\bin\Debug\BouncyCastle.Crypto.dll
+E:\Công nghệ phần mềm\ShoeStoreManager\GUI\bin\Debug\System.Memory.dll
+E:\Công nghệ phần mềm\ShoeStoreManager\GUI\bin\Debug\System.Buffers.dll
+E:\Công nghệ phần mềm\ShoeStoreManager\GUI\bin\Debug\K4os.Compression.LZ4.dll
+E:\Công nghệ phần mềm\ShoeStoreManager\GUI\bin\Debug\K4os.Hash.xxHash.dll
+E:\Công nghệ phần mềm\ShoeStoreManager\GUI\bin\Debug\System.Numerics.Vectors.dll
+E:\Công nghệ phần mềm\ShoeStoreManager\GUI\bin\Debug\BUS.pdb
+E:\Công nghệ phần mềm\ShoeStoreManager\GUI\bin\Debug\BUS.exe.config
+E:\Công nghệ phần mềm\ShoeStoreManager\GUI\bin\Debug\DAO.pdb
+E:\Công nghệ phần mềm\ShoeStoreManager\GUI\bin\Debug\DAO.exe.config
+E:\Công nghệ phần mềm\ShoeStoreManager\GUI\bin\Debug\DTO.pdb
+E:\Công nghệ phần mềm\ShoeStoreManager\GUI\bin\Debug\DTO.exe.config
+E:\Công nghệ phần mềm\ShoeStoreManager\GUI\bin\Debug\MySql.Data.xml
+E:\Công nghệ phần mềm\ShoeStoreManager\GUI\bin\Debug\Google.Protobuf.pdb
+E:\Công nghệ phần mềm\ShoeStoreManager\GUI\bin\Debug\Google.Protobuf.xml
+E:\Công nghệ phần mềm\ShoeStoreManager\GUI\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\Công nghệ phần mềm\ShoeStoreManager\GUI\bin\Debug\BouncyCastle.Crypto.xml
+E:\Công nghệ phần mềm\ShoeStoreManager\GUI\bin\Debug\System.Memory.xml
+E:\Công nghệ phần mềm\ShoeStoreManager\GUI\bin\Debug\System.Buffers.xml
+E:\Công nghệ phần mềm\ShoeStoreManager\GUI\bin\Debug\K4os.Compression.LZ4.xml
+E:\Công nghệ phần mềm\ShoeStoreManager\GUI\bin\Debug\K4os.Hash.xxHash.xml
+E:\Công nghệ phần mềm\ShoeStoreManager\GUI\bin\Debug\System.Numerics.Vectors.xml
+E:\Công nghệ phần mềm\ShoeStoreManager\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+E:\Công nghệ phần mềm\ShoeStoreManager\GUI\obj\Debug\GUI.csproj.SuggestedBindingRedirects.cache
+E:\Công nghệ phần mềm\ShoeStoreManager\GUI\obj\Debug\GUI.exe.config
+E:\Công nghệ phần mềm\ShoeStoreManager\GUI\obj\Debug\GUI.csproj.ResolveComReference.cache
+E:\Công nghệ phần mềm\ShoeStoreManager\GUI\obj\Debug\GUI.AccountGUI.resources
+E:\Công nghệ phần mềm\ShoeStoreManager\GUI\obj\Debug\GUI.BillDetail.resources
+E:\Công nghệ phần mềm\ShoeStoreManager\GUI\obj\Debug\GUI.BillManagerGUI.resources
+E:\Công nghệ phần mềm\ShoeStoreManager\GUI\obj\Debug\GUI.BillUpdate.resources
+E:\Công nghệ phần mềm\ShoeStoreManager\GUI\obj\Debug\GUI.ChooseCustomer.resources
+E:\Công nghệ phần mềm\ShoeStoreManager\GUI\obj\Debug\GUI.ChooseStaff.resources
+E:\Công nghệ phần mềm\ShoeStoreManager\GUI\obj\Debug\GUI.ChooseStaff_import.resources
+E:\Công nghệ phần mềm\ShoeStoreManager\GUI\obj\Debug\GUI.ChooseSupplier_Import.resources
+E:\Công nghệ phần mềm\ShoeStoreManager\GUI\obj\Debug\GUI.CreateImport.resources
+E:\Công nghệ phần mềm\ShoeStoreManager\GUI\obj\Debug\GUI.CustomerGUI.resources
+E:\Công nghệ phần mềm\ShoeStoreManager\GUI\obj\Debug\GUI.Dashboard.resources
+E:\Công nghệ phần mềm\ShoeStoreManager\GUI\obj\Debug\GUI.ImportDetail.resources
+E:\Công nghệ phần mềm\ShoeStoreManager\GUI\obj\Debug\GUI.LoginGUI.resources
+E:\Công nghệ phần mềm\ShoeStoreManager\GUI\obj\Debug\GUI.Product.resources
+E:\Công nghệ phần mềm\ShoeStoreManager\GUI\obj\Debug\GUI.ProductLists.resources
+E:\Công nghệ phần mềm\ShoeStoreManager\GUI\obj\Debug\GUI.ProductManager.resources
+E:\Công nghệ phần mềm\ShoeStoreManager\GUI\obj\Debug\GUI.RoleFuncGUI.resources
+E:\Công nghệ phần mềm\ShoeStoreManager\GUI\obj\Debug\GUI.StaffGUI.resources
+E:\Công nghệ phần mềm\ShoeStoreManager\GUI\obj\Debug\GUI.StaffManager.resources
+E:\Công nghệ phần mềm\ShoeStoreManager\GUI\obj\Debug\GUI.StatisticGUI.resources
+E:\Công nghệ phần mềm\ShoeStoreManager\GUI\obj\Debug\GUI.SubFuncGUI.resources
+E:\Công nghệ phần mềm\ShoeStoreManager\GUI\obj\Debug\GUI.SubRoleGUI.resources
+E:\Công nghệ phần mềm\ShoeStoreManager\GUI\obj\Debug\GUI.SubProductGUI.resources
+E:\Công nghệ phần mềm\ShoeStoreManager\GUI\obj\Debug\GUI.SupplierGUI.resources
+E:\Công nghệ phần mềm\ShoeStoreManager\GUI\obj\Debug\GUI.ImportManager.resources
+E:\Công nghệ phần mềm\ShoeStoreManager\GUI\obj\Debug\GUI.ListCustomer.resources
+E:\Công nghệ phần mềm\ShoeStoreManager\GUI\obj\Debug\GUI.ListProduct.resources
+E:\Công nghệ phần mềm\ShoeStoreManager\GUI\obj\Debug\GUI.ListStaff.resources
+E:\Công nghệ phần mềm\ShoeStoreManager\GUI\obj\Debug\GUI.MainGUI.resources
+E:\Công nghệ phần mềm\ShoeStoreManager\GUI\obj\Debug\GUI.ProductDetail.resources
+E:\Công nghệ phần mềm\ShoeStoreManager\GUI\obj\Debug\GUI.Profile.resources
+E:\Công nghệ phần mềm\ShoeStoreManager\GUI\obj\Debug\GUI.Properties.Resources.resources
+E:\Công nghệ phần mềm\ShoeStoreManager\GUI\obj\Debug\GUI.Sale.resources
+E:\Công nghệ phần mềm\ShoeStoreManager\GUI\obj\Debug\GUI.ShowStaff.resources
+E:\Công nghệ phần mềm\ShoeStoreManager\GUI\obj\Debug\GUI.ShowSupplier.resources
+E:\Công nghệ phần mềm\ShoeStoreManager\GUI\obj\Debug\GUI.UpdateImport.resources
+E:\Công nghệ phần mềm\ShoeStoreManager\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+E:\Công nghệ phần mềm\ShoeStoreManager\GUI\obj\Debug\GUI.exe.licenses
+E:\Công nghệ phần mềm\ShoeStoreManager\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+E:\Công nghệ phần mềm\ShoeStoreManager\GUI\obj\Debug\GUI.csproj.CopyComplete
+E:\Công nghệ phần mềm\ShoeStoreManager\GUI\obj\Debug\GUI.exe
+E:\Công nghệ phần mềm\ShoeStoreManager\GUI\obj\Debug\GUI.pdb
+E:\Công nghệ phần mềm\ShoeStoreManager\GUI\obj\Debug\GUI.AddCus.resources
+E:\Công nghệ phần mềm\ShoeStoreManager\GUI\obj\Debug\GUI.AddSup.resources
+C:\Users\DELL\Desktop\ShoeStoreManager\GUI\bin\Debug\GUI.exe.config
+C:\Users\DELL\Desktop\ShoeStoreManager\GUI\bin\Debug\GUI.exe
+C:\Users\DELL\Desktop\ShoeStoreManager\GUI\bin\Debug\GUI.pdb
+C:\Users\DELL\Desktop\ShoeStoreManager\GUI\bin\Debug\Bunifu.Licensing.dll
+C:\Users\DELL\Desktop\ShoeStoreManager\GUI\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+C:\Users\DELL\Desktop\ShoeStoreManager\GUI\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+C:\Users\DELL\Desktop\ShoeStoreManager\GUI\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+C:\Users\DELL\Desktop\ShoeStoreManager\GUI\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+C:\Users\DELL\Desktop\ShoeStoreManager\GUI\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+C:\Users\DELL\Desktop\ShoeStoreManager\GUI\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+C:\Users\DELL\Desktop\ShoeStoreManager\GUI\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+C:\Users\DELL\Desktop\ShoeStoreManager\GUI\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+C:\Users\DELL\Desktop\ShoeStoreManager\GUI\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+C:\Users\DELL\Desktop\ShoeStoreManager\GUI\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+C:\Users\DELL\Desktop\ShoeStoreManager\GUI\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+C:\Users\DELL\Desktop\ShoeStoreManager\GUI\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.dll
+C:\Users\DELL\Desktop\ShoeStoreManager\GUI\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+C:\Users\DELL\Desktop\ShoeStoreManager\GUI\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+C:\Users\DELL\Desktop\ShoeStoreManager\GUI\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+C:\Users\DELL\Desktop\ShoeStoreManager\GUI\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+C:\Users\DELL\Desktop\ShoeStoreManager\GUI\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+C:\Users\DELL\Desktop\ShoeStoreManager\GUI\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+C:\Users\DELL\Desktop\ShoeStoreManager\GUI\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+C:\Users\DELL\Desktop\ShoeStoreManager\GUI\bin\Debug\Bunifu.UI.WinForms.BunifuRating.dll
+C:\Users\DELL\Desktop\ShoeStoreManager\GUI\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+C:\Users\DELL\Desktop\ShoeStoreManager\GUI\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.dll
+C:\Users\DELL\Desktop\ShoeStoreManager\GUI\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+C:\Users\DELL\Desktop\ShoeStoreManager\GUI\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.dll
+C:\Users\DELL\Desktop\ShoeStoreManager\GUI\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+C:\Users\DELL\Desktop\ShoeStoreManager\GUI\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.dll
+C:\Users\DELL\Desktop\ShoeStoreManager\GUI\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.dll
+C:\Users\DELL\Desktop\ShoeStoreManager\GUI\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+C:\Users\DELL\Desktop\ShoeStoreManager\GUI\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+C:\Users\DELL\Desktop\ShoeStoreManager\GUI\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+C:\Users\DELL\Desktop\ShoeStoreManager\GUI\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+C:\Users\DELL\Desktop\ShoeStoreManager\GUI\bin\Debug\Bunifu.UI.WinForms.Deprecated.dll
+C:\Users\DELL\Desktop\ShoeStoreManager\GUI\bin\Debug\BUS.exe
+C:\Users\DELL\Desktop\ShoeStoreManager\GUI\bin\Debug\ComponentFactory.Krypton.Design.dll
+C:\Users\DELL\Desktop\ShoeStoreManager\GUI\bin\Debug\ComponentFactory.Krypton.Docking.dll
+C:\Users\DELL\Desktop\ShoeStoreManager\GUI\bin\Debug\ComponentFactory.Krypton.Navigator.dll
+C:\Users\DELL\Desktop\ShoeStoreManager\GUI\bin\Debug\ComponentFactory.Krypton.Ribbon.dll
+C:\Users\DELL\Desktop\ShoeStoreManager\GUI\bin\Debug\ComponentFactory.Krypton.Toolkit.dll
+C:\Users\DELL\Desktop\ShoeStoreManager\GUI\bin\Debug\ComponentFactory.Krypton.Workspace.dll
+C:\Users\DELL\Desktop\ShoeStoreManager\GUI\bin\Debug\DAO.exe
+C:\Users\DELL\Desktop\ShoeStoreManager\GUI\bin\Debug\DTO.exe
+C:\Users\DELL\Desktop\ShoeStoreManager\GUI\bin\Debug\Guna.UI2.dll
+C:\Users\DELL\Desktop\ShoeStoreManager\GUI\bin\Debug\MySql.Data.dll
+C:\Users\DELL\Desktop\ShoeStoreManager\GUI\bin\Debug\Google.Protobuf.dll
+C:\Users\DELL\Desktop\ShoeStoreManager\GUI\bin\Debug\ZstdNet.dll
+C:\Users\DELL\Desktop\ShoeStoreManager\GUI\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\DELL\Desktop\ShoeStoreManager\GUI\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\DELL\Desktop\ShoeStoreManager\GUI\bin\Debug\System.Memory.dll
+C:\Users\DELL\Desktop\ShoeStoreManager\GUI\bin\Debug\System.Buffers.dll
+C:\Users\DELL\Desktop\ShoeStoreManager\GUI\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\DELL\Desktop\ShoeStoreManager\GUI\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\DELL\Desktop\ShoeStoreManager\GUI\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\DELL\Desktop\ShoeStoreManager\GUI\bin\Debug\BUS.pdb
+C:\Users\DELL\Desktop\ShoeStoreManager\GUI\bin\Debug\BUS.exe.config
+C:\Users\DELL\Desktop\ShoeStoreManager\GUI\bin\Debug\DAO.pdb
+C:\Users\DELL\Desktop\ShoeStoreManager\GUI\bin\Debug\DAO.exe.config
+C:\Users\DELL\Desktop\ShoeStoreManager\GUI\bin\Debug\DTO.pdb
+C:\Users\DELL\Desktop\ShoeStoreManager\GUI\bin\Debug\DTO.exe.config
+C:\Users\DELL\Desktop\ShoeStoreManager\GUI\bin\Debug\MySql.Data.xml
+C:\Users\DELL\Desktop\ShoeStoreManager\GUI\bin\Debug\Google.Protobuf.pdb
+C:\Users\DELL\Desktop\ShoeStoreManager\GUI\bin\Debug\Google.Protobuf.xml
+C:\Users\DELL\Desktop\ShoeStoreManager\GUI\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\DELL\Desktop\ShoeStoreManager\GUI\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\DELL\Desktop\ShoeStoreManager\GUI\bin\Debug\System.Memory.xml
+C:\Users\DELL\Desktop\ShoeStoreManager\GUI\bin\Debug\System.Buffers.xml
+C:\Users\DELL\Desktop\ShoeStoreManager\GUI\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\DELL\Desktop\ShoeStoreManager\GUI\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\DELL\Desktop\ShoeStoreManager\GUI\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\DELL\Desktop\ShoeStoreManager\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\ShoeStoreManager\GUI\obj\Debug\GUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\DELL\Desktop\ShoeStoreManager\GUI\obj\Debug\GUI.exe.config
+C:\Users\DELL\Desktop\ShoeStoreManager\GUI\obj\Debug\GUI.csproj.ResolveComReference.cache
+C:\Users\DELL\Desktop\ShoeStoreManager\GUI\obj\Debug\GUI.AccountGUI.resources
+C:\Users\DELL\Desktop\ShoeStoreManager\GUI\obj\Debug\GUI.AddCus.resources
+C:\Users\DELL\Desktop\ShoeStoreManager\GUI\obj\Debug\GUI.AddSup.resources
+C:\Users\DELL\Desktop\ShoeStoreManager\GUI\obj\Debug\GUI.BillDetail.resources
+C:\Users\DELL\Desktop\ShoeStoreManager\GUI\obj\Debug\GUI.BillManagerGUI.resources
+C:\Users\DELL\Desktop\ShoeStoreManager\GUI\obj\Debug\GUI.BillUpdate.resources
+C:\Users\DELL\Desktop\ShoeStoreManager\GUI\obj\Debug\GUI.ChooseCustomer.resources
+C:\Users\DELL\Desktop\ShoeStoreManager\GUI\obj\Debug\GUI.ChooseStaff.resources
+C:\Users\DELL\Desktop\ShoeStoreManager\GUI\obj\Debug\GUI.ChooseStaff_import.resources
+C:\Users\DELL\Desktop\ShoeStoreManager\GUI\obj\Debug\GUI.ChooseSupplier_Import.resources
+C:\Users\DELL\Desktop\ShoeStoreManager\GUI\obj\Debug\GUI.CreateImport.resources
+C:\Users\DELL\Desktop\ShoeStoreManager\GUI\obj\Debug\GUI.CustomerGUI.resources
+C:\Users\DELL\Desktop\ShoeStoreManager\GUI\obj\Debug\GUI.Dashboard.resources
+C:\Users\DELL\Desktop\ShoeStoreManager\GUI\obj\Debug\GUI.ImportDetail.resources
+C:\Users\DELL\Desktop\ShoeStoreManager\GUI\obj\Debug\GUI.LoginGUI.resources
+C:\Users\DELL\Desktop\ShoeStoreManager\GUI\obj\Debug\GUI.Product.resources
+C:\Users\DELL\Desktop\ShoeStoreManager\GUI\obj\Debug\GUI.ProductLists.resources
+C:\Users\DELL\Desktop\ShoeStoreManager\GUI\obj\Debug\GUI.ProductManager.resources
+C:\Users\DELL\Desktop\ShoeStoreManager\GUI\obj\Debug\GUI.RoleFuncGUI.resources
+C:\Users\DELL\Desktop\ShoeStoreManager\GUI\obj\Debug\GUI.StaffGUI.resources
+C:\Users\DELL\Desktop\ShoeStoreManager\GUI\obj\Debug\GUI.StaffManager.resources
+C:\Users\DELL\Desktop\ShoeStoreManager\GUI\obj\Debug\GUI.StatisticGUI.resources
+C:\Users\DELL\Desktop\ShoeStoreManager\GUI\obj\Debug\GUI.SubFuncGUI.resources
+C:\Users\DELL\Desktop\ShoeStoreManager\GUI\obj\Debug\GUI.SubRoleGUI.resources
+C:\Users\DELL\Desktop\ShoeStoreManager\GUI\obj\Debug\GUI.SubProductGUI.resources
+C:\Users\DELL\Desktop\ShoeStoreManager\GUI\obj\Debug\GUI.SupplierGUI.resources
+C:\Users\DELL\Desktop\ShoeStoreManager\GUI\obj\Debug\GUI.ImportManager.resources
+C:\Users\DELL\Desktop\ShoeStoreManager\GUI\obj\Debug\GUI.ListCustomer.resources
+C:\Users\DELL\Desktop\ShoeStoreManager\GUI\obj\Debug\GUI.ListProduct.resources
+C:\Users\DELL\Desktop\ShoeStoreManager\GUI\obj\Debug\GUI.ListStaff.resources
+C:\Users\DELL\Desktop\ShoeStoreManager\GUI\obj\Debug\GUI.MainGUI.resources
+C:\Users\DELL\Desktop\ShoeStoreManager\GUI\obj\Debug\GUI.ProductDetail.resources
+C:\Users\DELL\Desktop\ShoeStoreManager\GUI\obj\Debug\GUI.Profile.resources
+C:\Users\DELL\Desktop\ShoeStoreManager\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\DELL\Desktop\ShoeStoreManager\GUI\obj\Debug\GUI.Sale.resources
+C:\Users\DELL\Desktop\ShoeStoreManager\GUI\obj\Debug\GUI.ShowStaff.resources
+C:\Users\DELL\Desktop\ShoeStoreManager\GUI\obj\Debug\GUI.ShowSupplier.resources
+C:\Users\DELL\Desktop\ShoeStoreManager\GUI\obj\Debug\GUI.UpdateImport.resources
+C:\Users\DELL\Desktop\ShoeStoreManager\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\ShoeStoreManager\GUI\obj\Debug\GUI.exe.licenses
+C:\Users\DELL\Desktop\ShoeStoreManager\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\ShoeStoreManager\GUI\obj\Debug\GUI.csproj.CopyComplete
+C:\Users\DELL\Desktop\ShoeStoreManager\GUI\obj\Debug\GUI.exe
+C:\Users\DELL\Desktop\ShoeStoreManager\GUI\obj\Debug\GUI.pdb
+C:\Users\DELL\Desktop\ShoeStoreManager\GUI\obj\Debug\GUI.LinkAcc.resources
+C:\Users\DELL\Desktop\ShoeStoreManager\GUI\obj\Debug\GUI.RemoveFromStaff.resources
+C:\Users\DELL\Desktop\ShoeStoreManager\GUI\obj\Debug\GUI.ShowDetail.resources
+C:\Users\kinhc\Desktop\ShoeStoreManager\GUI\bin\Debug\GUI.exe.config
+C:\Users\kinhc\Desktop\ShoeStoreManager\GUI\bin\Debug\GUI.exe
+C:\Users\kinhc\Desktop\ShoeStoreManager\GUI\bin\Debug\GUI.pdb
+C:\Users\kinhc\Desktop\ShoeStoreManager\GUI\bin\Debug\Bunifu.Licensing.dll
+C:\Users\kinhc\Desktop\ShoeStoreManager\GUI\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+C:\Users\kinhc\Desktop\ShoeStoreManager\GUI\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+C:\Users\kinhc\Desktop\ShoeStoreManager\GUI\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+C:\Users\kinhc\Desktop\ShoeStoreManager\GUI\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+C:\Users\kinhc\Desktop\ShoeStoreManager\GUI\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+C:\Users\kinhc\Desktop\ShoeStoreManager\GUI\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+C:\Users\kinhc\Desktop\ShoeStoreManager\GUI\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+C:\Users\kinhc\Desktop\ShoeStoreManager\GUI\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+C:\Users\kinhc\Desktop\ShoeStoreManager\GUI\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+C:\Users\kinhc\Desktop\ShoeStoreManager\GUI\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+C:\Users\kinhc\Desktop\ShoeStoreManager\GUI\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+C:\Users\kinhc\Desktop\ShoeStoreManager\GUI\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.dll
+C:\Users\kinhc\Desktop\ShoeStoreManager\GUI\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+C:\Users\kinhc\Desktop\ShoeStoreManager\GUI\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+C:\Users\kinhc\Desktop\ShoeStoreManager\GUI\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+C:\Users\kinhc\Desktop\ShoeStoreManager\GUI\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+C:\Users\kinhc\Desktop\ShoeStoreManager\GUI\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+C:\Users\kinhc\Desktop\ShoeStoreManager\GUI\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+C:\Users\kinhc\Desktop\ShoeStoreManager\GUI\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+C:\Users\kinhc\Desktop\ShoeStoreManager\GUI\bin\Debug\Bunifu.UI.WinForms.BunifuRating.dll
+C:\Users\kinhc\Desktop\ShoeStoreManager\GUI\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+C:\Users\kinhc\Desktop\ShoeStoreManager\GUI\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.dll
+C:\Users\kinhc\Desktop\ShoeStoreManager\GUI\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+C:\Users\kinhc\Desktop\ShoeStoreManager\GUI\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.dll
+C:\Users\kinhc\Desktop\ShoeStoreManager\GUI\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+C:\Users\kinhc\Desktop\ShoeStoreManager\GUI\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.dll
+C:\Users\kinhc\Desktop\ShoeStoreManager\GUI\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.dll
+C:\Users\kinhc\Desktop\ShoeStoreManager\GUI\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+C:\Users\kinhc\Desktop\ShoeStoreManager\GUI\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+C:\Users\kinhc\Desktop\ShoeStoreManager\GUI\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+C:\Users\kinhc\Desktop\ShoeStoreManager\GUI\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+C:\Users\kinhc\Desktop\ShoeStoreManager\GUI\bin\Debug\Bunifu.UI.WinForms.Deprecated.dll
+C:\Users\kinhc\Desktop\ShoeStoreManager\GUI\bin\Debug\BUS.exe
+C:\Users\kinhc\Desktop\ShoeStoreManager\GUI\bin\Debug\ComponentFactory.Krypton.Design.dll
+C:\Users\kinhc\Desktop\ShoeStoreManager\GUI\bin\Debug\ComponentFactory.Krypton.Docking.dll
+C:\Users\kinhc\Desktop\ShoeStoreManager\GUI\bin\Debug\ComponentFactory.Krypton.Navigator.dll
+C:\Users\kinhc\Desktop\ShoeStoreManager\GUI\bin\Debug\ComponentFactory.Krypton.Ribbon.dll
+C:\Users\kinhc\Desktop\ShoeStoreManager\GUI\bin\Debug\ComponentFactory.Krypton.Toolkit.dll
+C:\Users\kinhc\Desktop\ShoeStoreManager\GUI\bin\Debug\ComponentFactory.Krypton.Workspace.dll
+C:\Users\kinhc\Desktop\ShoeStoreManager\GUI\bin\Debug\DAO.exe
+C:\Users\kinhc\Desktop\ShoeStoreManager\GUI\bin\Debug\DTO.exe
+C:\Users\kinhc\Desktop\ShoeStoreManager\GUI\bin\Debug\Guna.UI2.dll
+C:\Users\kinhc\Desktop\ShoeStoreManager\GUI\bin\Debug\MySql.Data.dll
+C:\Users\kinhc\Desktop\ShoeStoreManager\GUI\bin\Debug\Google.Protobuf.dll
+C:\Users\kinhc\Desktop\ShoeStoreManager\GUI\bin\Debug\ZstdNet.dll
+C:\Users\kinhc\Desktop\ShoeStoreManager\GUI\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\kinhc\Desktop\ShoeStoreManager\GUI\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\kinhc\Desktop\ShoeStoreManager\GUI\bin\Debug\System.Memory.dll
+C:\Users\kinhc\Desktop\ShoeStoreManager\GUI\bin\Debug\System.Buffers.dll
+C:\Users\kinhc\Desktop\ShoeStoreManager\GUI\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\kinhc\Desktop\ShoeStoreManager\GUI\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\kinhc\Desktop\ShoeStoreManager\GUI\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\kinhc\Desktop\ShoeStoreManager\GUI\bin\Debug\BUS.pdb
+C:\Users\kinhc\Desktop\ShoeStoreManager\GUI\bin\Debug\BUS.exe.config
+C:\Users\kinhc\Desktop\ShoeStoreManager\GUI\bin\Debug\DAO.pdb
+C:\Users\kinhc\Desktop\ShoeStoreManager\GUI\bin\Debug\DAO.exe.config
+C:\Users\kinhc\Desktop\ShoeStoreManager\GUI\bin\Debug\DTO.pdb
+C:\Users\kinhc\Desktop\ShoeStoreManager\GUI\bin\Debug\DTO.exe.config
+C:\Users\kinhc\Desktop\ShoeStoreManager\GUI\bin\Debug\MySql.Data.xml
+C:\Users\kinhc\Desktop\ShoeStoreManager\GUI\bin\Debug\Google.Protobuf.pdb
+C:\Users\kinhc\Desktop\ShoeStoreManager\GUI\bin\Debug\Google.Protobuf.xml
+C:\Users\kinhc\Desktop\ShoeStoreManager\GUI\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\kinhc\Desktop\ShoeStoreManager\GUI\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\kinhc\Desktop\ShoeStoreManager\GUI\bin\Debug\System.Memory.xml
+C:\Users\kinhc\Desktop\ShoeStoreManager\GUI\bin\Debug\System.Buffers.xml
+C:\Users\kinhc\Desktop\ShoeStoreManager\GUI\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\kinhc\Desktop\ShoeStoreManager\GUI\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\kinhc\Desktop\ShoeStoreManager\GUI\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\kinhc\Desktop\ShoeStoreManager\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+C:\Users\kinhc\Desktop\ShoeStoreManager\GUI\obj\Debug\GUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\kinhc\Desktop\ShoeStoreManager\GUI\obj\Debug\GUI.exe.config
+C:\Users\kinhc\Desktop\ShoeStoreManager\GUI\obj\Debug\GUI.csproj.ResolveComReference.cache
+C:\Users\kinhc\Desktop\ShoeStoreManager\GUI\obj\Debug\GUI.AccountGUI.resources
+C:\Users\kinhc\Desktop\ShoeStoreManager\GUI\obj\Debug\GUI.LinkAcc.resources
+C:\Users\kinhc\Desktop\ShoeStoreManager\GUI\obj\Debug\GUI.AddCus.resources
+C:\Users\kinhc\Desktop\ShoeStoreManager\GUI\obj\Debug\GUI.AddSup.resources
+C:\Users\kinhc\Desktop\ShoeStoreManager\GUI\obj\Debug\GUI.BillDetail.resources
+C:\Users\kinhc\Desktop\ShoeStoreManager\GUI\obj\Debug\GUI.BillManagerGUI.resources
+C:\Users\kinhc\Desktop\ShoeStoreManager\GUI\obj\Debug\GUI.BillUpdate.resources
+C:\Users\kinhc\Desktop\ShoeStoreManager\GUI\obj\Debug\GUI.ChooseCustomer.resources
+C:\Users\kinhc\Desktop\ShoeStoreManager\GUI\obj\Debug\GUI.ChooseStaff.resources
+C:\Users\kinhc\Desktop\ShoeStoreManager\GUI\obj\Debug\GUI.ChooseStaff_import.resources
+C:\Users\kinhc\Desktop\ShoeStoreManager\GUI\obj\Debug\GUI.ChooseSupplier_Import.resources
+C:\Users\kinhc\Desktop\ShoeStoreManager\GUI\obj\Debug\GUI.CreateImport.resources
+C:\Users\kinhc\Desktop\ShoeStoreManager\GUI\obj\Debug\GUI.CustomerGUI.resources
+C:\Users\kinhc\Desktop\ShoeStoreManager\GUI\obj\Debug\GUI.Dashboard.resources
+C:\Users\kinhc\Desktop\ShoeStoreManager\GUI\obj\Debug\GUI.ImportDetail.resources
+C:\Users\kinhc\Desktop\ShoeStoreManager\GUI\obj\Debug\GUI.LoginGUI.resources
+C:\Users\kinhc\Desktop\ShoeStoreManager\GUI\obj\Debug\GUI.Product.resources
+C:\Users\kinhc\Desktop\ShoeStoreManager\GUI\obj\Debug\GUI.ProductLists.resources
+C:\Users\kinhc\Desktop\ShoeStoreManager\GUI\obj\Debug\GUI.ProductManager.resources
+C:\Users\kinhc\Desktop\ShoeStoreManager\GUI\obj\Debug\GUI.RemoveFromStaff.resources
+C:\Users\kinhc\Desktop\ShoeStoreManager\GUI\obj\Debug\GUI.RoleFuncGUI.resources
+C:\Users\kinhc\Desktop\ShoeStoreManager\GUI\obj\Debug\GUI.ShowDetail.resources
+C:\Users\kinhc\Desktop\ShoeStoreManager\GUI\obj\Debug\GUI.StaffGUI.resources
+C:\Users\kinhc\Desktop\ShoeStoreManager\GUI\obj\Debug\GUI.StaffManager.resources
+C:\Users\kinhc\Desktop\ShoeStoreManager\GUI\obj\Debug\GUI.StatisticGUI.resources
+C:\Users\kinhc\Desktop\ShoeStoreManager\GUI\obj\Debug\GUI.SubFuncGUI.resources
+C:\Users\kinhc\Desktop\ShoeStoreManager\GUI\obj\Debug\GUI.SubRoleGUI.resources
+C:\Users\kinhc\Desktop\ShoeStoreManager\GUI\obj\Debug\GUI.SubProductGUI.resources
+C:\Users\kinhc\Desktop\ShoeStoreManager\GUI\obj\Debug\GUI.SupplierGUI.resources
+C:\Users\kinhc\Desktop\ShoeStoreManager\GUI\obj\Debug\GUI.ImportManager.resources
+C:\Users\kinhc\Desktop\ShoeStoreManager\GUI\obj\Debug\GUI.ListCustomer.resources
+C:\Users\kinhc\Desktop\ShoeStoreManager\GUI\obj\Debug\GUI.ListProduct.resources
+C:\Users\kinhc\Desktop\ShoeStoreManager\GUI\obj\Debug\GUI.ListStaff.resources
+C:\Users\kinhc\Desktop\ShoeStoreManager\GUI\obj\Debug\GUI.MainGUI.resources
+C:\Users\kinhc\Desktop\ShoeStoreManager\GUI\obj\Debug\GUI.ProductDetail.resources
+C:\Users\kinhc\Desktop\ShoeStoreManager\GUI\obj\Debug\GUI.Profile.resources
+C:\Users\kinhc\Desktop\ShoeStoreManager\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\kinhc\Desktop\ShoeStoreManager\GUI\obj\Debug\GUI.Sale.resources
+C:\Users\kinhc\Desktop\ShoeStoreManager\GUI\obj\Debug\GUI.ShowStaff.resources
+C:\Users\kinhc\Desktop\ShoeStoreManager\GUI\obj\Debug\GUI.ShowSupplier.resources
+C:\Users\kinhc\Desktop\ShoeStoreManager\GUI\obj\Debug\GUI.UpdateImport.resources
+C:\Users\kinhc\Desktop\ShoeStoreManager\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\kinhc\Desktop\ShoeStoreManager\GUI\obj\Debug\GUI.exe.licenses
+C:\Users\kinhc\Desktop\ShoeStoreManager\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\kinhc\Desktop\ShoeStoreManager\GUI\obj\Debug\GUI.csproj.CopyComplete
+C:\Users\kinhc\Desktop\ShoeStoreManager\GUI\obj\Debug\GUI.exe
+C:\Users\kinhc\Desktop\ShoeStoreManager\GUI\obj\Debug\GUI.pdb
